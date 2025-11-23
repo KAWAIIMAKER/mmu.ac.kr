@@ -10,7 +10,7 @@
 
 # 01. Setting
 영상 제작 전 `영상 화질`, `초당 프레임 수(FPS)`, `색상 영역`을 설정해야 합니다.
-<img src="https://raw.githubusercontent.com/AHMUMAL/mmu_badasemi/refs/heads/main/assets/Sequence%20Set.png" width="600" height="800" >
+<img src="https://github.com/user-attachments/assets/6051a127-e8ae-4095-9d8f-d00923314c03" width="600" height="800" >
 
 **_`영상화질🎬`_**
 - ♡ 3840x2160 4K UHD ♡: TV 수준의 높은 화질, 그러나 매우 높은 사양이 요구됨.
