@@ -1,1 +1,148 @@
 # mmu.ac.kr
+# 영상 제작 인수 인계 자료 for @mmu_badasemi
+<a href="https://www.youtube.com/watch?v=57j_HETJUHg"><img src="https://postfiles.pstatic.net/MjAyMDEyMDVfMjc4/MDAxNjA3MTU3NTUxMjMw.ZElT2N_t4K2wwF0tpKE5gBGw-5-U-urhjiug_xQBfCMg.76Rb6cZgDd5RHobBFr8XNXQ2banGleMcrLxMY4LF7g4g.PNG.badasemi/%EB%B0%94%EB%8B%A4%EC%84%B8%EB%AF%B8_%EC%8B%9C%EC%9E%91_%EB%B0%B0%EB%84%88.png?type=w773" width="800" height="600"></a>
+
+</n>(영문판: https://github.com/KAWAIIMAKER/mmu_badasemi)
+> **Ver 251119.01** 
+
+> **Made by WOOJIN(우진,うじん)**
+> 하트 표시한 것들이 추천세팅 입니다.
+
+# 01. Setting
+영상 제작 전 `영상 화질`, `초당 프레임 수(FPS)`, `색상 영역`을 설정해야 합니다.
+<img src="https://raw.githubusercontent.com/AHMUMAL/mmu_badasemi/refs/heads/main/assets/Sequence%20Set.png" width="600" height="800" >
+
+**_`영상화질🎬`_**
+- ♡ 3840x2160 4K UHD ♡: TV 수준의 높은 화질, 그러나 매우 높은 사양이 요구됨.
+- 2560x1440 2K QHD: 컴퓨터 게임에서 주로 사용됩니다. 일반 영상에서는 크게 사용되지 않음.
+- 1920x1080 FHD: 주로 볼 수 있는 화질, 요즘에는 4K 영상이 늘어나는 추세임.
+
+**_`숏폼 영상화질📱`_**
+- ☆1080x1920☆: 휴대폰 해상도와 비슷하여 주로 사용됨.
+- 2160x3840: 직캠과 같은 영상 콘텐츠에 사용됨.
+
+
+**_`초당 프레임 수(FPS🎞)`_**
+- 24: 영화
+- 30: 일반적으로 사용됨
+- ♥60♥: 권장. 고품질이지만 용량이 더 큼.
+- 120: 시기상조. 최고 품질이지만 일부 플랫폼(유튜브, 인스타그램 등)에서 지원되지 않음.
+
+**_`색상 영역🖼`_**
+- Rec. 709 8bit
+- ♥Rec. 709 10bit♥
+- HLG (HDR 8bit)
+- ★PQ (HDR 10bit)★
+- P3 D65 HLG: 매우 높은 효율. 그러나 너무 시기상조.
+(*🎨8비트는 256^3가지 색상을 표현할 수 있지만 10비트는 1024^3가지 색상을 표현할 수 있음.)
+
+**_`상황별 추천 세팅`_**
+- 브이로그, 다큐멘터리와 같은 일상 영상: 4K - 30FPS - Rec. 709 10bit
+- 풍경 촬영영상: 4K - 24FPS - PQ (HDR 10bit)
+- 릴스, 쇼츠, 틱톡: 1080x1920(세로) - 30~60FPS - Rec. 709 10bit
+
+# 02. 자막 또는 텍스트
+메인 자막, 메인 영상, 메인 이미지를 포함합니다. 중요하지 않은 클립은 5초 미만으로 짧게!
+
+## 02-1. 자막 또는 텍스트
+**_권장 자막 위치_** - X, Y 좌표 기준
+- 4K: 1920x1944
+- 1080p: 960x972
+- *높이를 10등분 했을 때, 바닥에서 첫 번째 칸에 배치합니다.
+
+**_자막 디자인_**
+
+<img src="https://github.com/AHMUMAL/mmu_badasemi/blob/main/assets/Subtitle%20Design.png" width="600" height="800" >
+
+**_`글꼴 (폰트)✍️`_** 
+
+글꼴 유형(참조)을 선택하고 글꼴 크기를 조절합니다. 
+글꼴 유형(위 참조)을 선택하고 분위기에 따라 글꼴 크기를 조절합니다.
+(1080p는 60pt, 4K는 120pt) 볼드체나 이탤릭체 같은 강조 효과를 사용할 수도 있습니다. 
+상황에 따라 글꼴 정렬을 변경할 수도 있습니다.
+
+## 02-1-1.**_추천 폰트 (KR,JP,EN)_**
+- 통상적인 자막 (고딕, 세리프(Serif)):
+
+| Country | Font |
+| --- | --- |
+| KR | BM Font Package, Cafe24 Fonts, Gmarket Sans, Noto sans KR, S-Core Dream, Wanted Sans KR, 굴림, 제주한라산체 |
+|JP|DeraSukoGothic, LineSeedJP, Pretendard|
+***
+
+- 브이로그, 인터뷰 자막 (Design font):
+
+| Country | Font |
+| --- | --- |
+| KR |DXMSubtitles, EF Diary, Sandoll 미생, 더페이트샵 잉크립퀴드체, 봉숭아 틴트, 온글잎 (박다현체, 의연체), 이서윤체|
+| JP |BuildingTracks(ビルの谷間と高架下),FafoSans, komadori, PopRum Kiwi Telop, Umeboshi Font, しっぽり太ゴシック, 夏蝉丸ゴシック|
+***
+
+- 게임, 예능 자막:
+
+| Country | Font |
+| --- | --- |
+| KR |Black Han Sans, BM JUA, CookieRun, 넥슨 메이플스토리, DNF BitBit, NEO 둥근모, One Mobile Pop, SandBox 어그로, TMON 몬소리 Black|
+| JP |DokiDoki font|
+
+
+**_`색상🎨`_** 
+
+글자 자체의 색상을 변경합니다.
+
+**_`테두리선🖼️`_** 
+
+글자 테두리의 색상을 변경합니다. 글자 색상이 가려지지 않도록 두께를 조절하세요!!
+
+**_`배경⬜`_**
+
+그림에서 볼 수 있듯이, 글자 뒤에 나타나는 상자입니다. 상황에 따라 색상, 투명도 등을 조절합니다.
+
+**_`그림자◼️`_** 
+
+약간의 각도와 거리를 주어 3차원 효과를 만듭니다. 아래쪽에 배치하여 음영 효과를 주거나, 테두리 색상과 맞춰 글자를 빛나게 하는 등 다양한 효과를 줍니다.
+
+
+## 02-2. 사운드/시각 효과 (SFX, VFX)
+
+`사운드/시각 효과 (FX)`는 영상의 재미를 높일 뿐만 아니라 시청자의 집중을 유도하는 데 매우 중요하다고 할 수 있습니다. 
+일반적으로 영상 편집에 필수적인 요소이지만, 처음에는 어떻게 시작하고 어떻게 얻어야 할지 많은 고민을 하게 될 것입니다. 
+영상 편집 초보자들을 위해 제가 2019년부터 모아온 FX 정리 드라이브 링크를 공유합니다.
+
+[GDrive (mmu 바다세미 전용)](https://drive.google.com/drive/folders/1hYij15dUIne6kz8dYn7V4KYMO1YjThe_?usp=drive_link)
+
+[크로마키 밈 모음 사이트](https://greenscreenmemes.com/)
+
+[효과음 모음 사이](https://www.myinstants.com/ko/index/kr/)
+
+
+**_전환효과 (트랜지션)_**
+**_(*tip: 팁: 무음 장면이나 필요 없는 부분은 잘라내시기를..)_**
+영상 클립의 전환 효과입니다. 영상을 매우 자연스럽고 부드럽게 만듭니다. 단순히 화면을 돌리거나, 흐리게 하거나, 뒤집는 것부터 영화 효과, 렌즈 효과, 크로스 효과 등 다양합니다.
+[example](https://www.youtube.com/watch?v=p6L_2c0PThM)
+
+**_키프레임 활용 예시_**
+- `3 secs or less:`
+0:00: 투명도 0 / 0:45: 투명도 100 / end-0:15 (ex: 2:45 ): 투명도 100 / end (ex: 3:00): 투명도 0
+
+- `Over 3 secs:`
+0:00: 투명도 0 / 1:00 투명도 100 / end-0:30 (ex: 3:30 ): 투명도 100 / end (ex: 4:00): 투명 0
+
+가시성(visibility)이 변경되는 동안 확대, 회전, 애니메이션과 같은 다른 효과를 추가할 수 있습니다. 
+이것들을 템플릿화하면 작업 속도가 빨라질 것입니다!!🔥🔥🔥 
+'트랄랄레로 트랄랄라'와 같은 짧은 밈을 추가할 때는 이러한 효과를 추가할 필요가 없습니다.
+
+**_프리셋_**
+
+설정한 효과(f/x) 값의 오프셋을 저장합니다. 동일한 효과를 추가하고 싶을 때 사용합니다.
+[export](https://www.youtube.com/watch?v=nDHrgSSLb-I)
+[import](https://www.youtube.com/watch?v=P9TBNyfx4kU)
+
+## ~~00. Editor's Junk box~~
+
+<a href="https://youtu.be/Q_o6qiK2tFk?si=SpvtNlEYzOTjj-po"><img src="https://i.ytimg.com/vi/0Bqa2VLYY-M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBl93wJqEgNzBefOyJuPYFKvXh89Q" width="600" height="800"></a>
+**Role model #1**
+<a href="https://www.youtube.com/watch?v=13P0n2yyr9I"><img src="https://cutiestreet.asobisystem.com/static/fcopen/contents/top_image/1351/c639be549c1f8d66b01f4a8b56f152c9.jpeg" width="600" height="800"></a>
+**CUTIE STREET**
+<a href="https://www.youtube.com/watch?v=OUHVRWdVQCI"><img src="https://i.redd.it/why-do-russians-make-their-tanks-jump-doesnt-it-damage-the-v0-7frgeq07kxzb1.jpg?width=5184&format=pjpg&auto=webp&s=7035d96807ea3893626f0aefaa87af92f499ef4f" width="600" height="800"></a>
+**SLAV**
