@@ -113,7 +113,7 @@
 
 [크로마키 밈 모음 사이트](https://greenscreenmemes.com/)
 
-[효과음 모음 사이](https://www.myinstants.com/ko/index/kr/)
+[효과음 모음 사이트](https://www.myinstants.com/ko/index/kr/)
 
 
 **_전환효과 (트랜지션)_**
