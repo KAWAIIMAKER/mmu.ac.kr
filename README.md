@@ -105,9 +105,9 @@
 
 ## 02-2. 사운드/시각 효과 (SFX, VFX)
 
-`사운드/시각 효과 (FX)`는 영상의 재미를 높일 뿐만 아니라 시청자의 집중을 유도하는 데 매우 중요하다고 할 수 있습니다. 
-일반적으로 영상 편집에 필수적인 요소이지만, 처음에는 어떻게 시작하고 어떻게 얻어야 할지 많은 고민을 하게 될 것입니다. 
-영상 편집 초보자들을 위해 제가 2019년부터 모아온 FX 정리 드라이브 링크를 공유합니다.
+`사운드/시각 효과 (FX)`는 영상의 재미를 높일 뿐만 아니라 시청자의 집중을 유도하는 데 매우 중요한 요소입니다. 
+일반적으로 영상 편집에 필수적인 요소이지만, 처음에는 어떻게 시작하고 얻어야 할지 멘탈의 문제가 생기게 될 것입니다. 
+영상 편집 초보자들을 위해 제가 2019년부터 지금까지 ~~뺑이치며~~ 모아온 FX 정리 드라이브 링크를 공유하겠습니다.
 
 [GDrive (mmu 바다세미 전용)](https://drive.google.com/drive/folders/1hYij15dUIne6kz8dYn7V4KYMO1YjThe_?usp=drive_link)
 
@@ -129,7 +129,7 @@
 0:00: 투명도 0 / 1:00 투명도 100 / end-0:30 (ex: 3:30 ): 투명도 100 / end (ex: 4:00): 투명 0
 
 가시성(visibility)이 변경되는 동안 확대, 회전, 애니메이션과 같은 다른 효과를 추가할 수 있습니다. 
-이것들을 템플릿화하면 작업 속도가 빨라질 것입니다!!🔥🔥🔥 
+이것들을 템플릿화하면 작업 속도가 매우 빨라집니다.🔥🔥🔥 
 '트랄랄레로 트랄랄라'와 같은 짧은 밈을 추가할 때는 이러한 효과를 추가할 필요가 없습니다.
 
 **_프리셋_**
@@ -142,7 +142,3 @@
 
 <a href="https://youtu.be/Q_o6qiK2tFk?si=SpvtNlEYzOTjj-po"><img src="https://i.ytimg.com/vi/0Bqa2VLYY-M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBl93wJqEgNzBefOyJuPYFKvXh89Q" width="600" height="800"></a>
 **Role model #1**
-<a href="https://www.youtube.com/watch?v=13P0n2yyr9I"><img src="https://cutiestreet.asobisystem.com/static/fcopen/contents/top_image/1351/c639be549c1f8d66b01f4a8b56f152c9.jpeg" width="600" height="800"></a>
-**CUTIE STREET**
-<a href="https://www.youtube.com/watch?v=OUHVRWdVQCI"><img src="https://i.redd.it/why-do-russians-make-their-tanks-jump-doesnt-it-damage-the-v0-7frgeq07kxzb1.jpg?width=5184&format=pjpg&auto=webp&s=7035d96807ea3893626f0aefaa87af92f499ef4f" width="600" height="800"></a>
-**SLAV**
