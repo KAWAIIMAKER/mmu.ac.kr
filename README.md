@@ -3,7 +3,7 @@
 <a href="https://www.youtube.com/watch?v=57j_HETJUHg"><img src="https://postfiles.pstatic.net/MjAyMDEyMDVfMjc4/MDAxNjA3MTU3NTUxMjMw.ZElT2N_t4K2wwF0tpKE5gBGw-5-U-urhjiug_xQBfCMg.76Rb6cZgDd5RHobBFr8XNXQ2banGleMcrLxMY4LF7g4g.PNG.badasemi/%EB%B0%94%EB%8B%A4%EC%84%B8%EB%AF%B8_%EC%8B%9C%EC%9E%91_%EB%B0%B0%EB%84%88.png?type=w773" width="800" height="600"></a>
 
 </n>(영문판: https://github.com/KAWAIIMAKER/kawaiimaker)
-> **Ver 251123.01** 
+> **Ver 251126.01** 
 
 > **Made by WOOJIN(우진,うじん)**
 > 하트 표시한 것들이 추천세팅 입니다.
@@ -115,13 +115,23 @@
 
 [효과음 모음 사이트](https://www.myinstants.com/ko/index/kr/)
 
+**_효과(FX) 넣는 법 (Premiere Pro 기준)_**
+
+<img src="https://mblogthumb-phinf.pstatic.net/MjAxODEwMTFfODAg/MDAxNTM5MjQwNDg1Nzk0.3-4EbVhxWdgZBEKgLNrCg6TqvM7Ro9lHMY2I8KIaZ-0g.1GZSR4ETjT76BjAizAZGyNPaI0w0MtRy7ZTK83nqAggg.GIF.hanbyul2010/%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9A%A9.gif?type=w800" width="600" height="800" >
+
 
 **_전환효과 (트랜지션)_**
+
+<img src="https://blog.kakaocdn.net/dna/kCR0x/btqIvDCEpAF/AAAAAAAAAAAAAAAAAAAAAFtG-_oCiI7aHeDZ9CgEThfkgdyFOterUyoLMYRR-3qC/img.gif?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1764514799&allow_ip=&allow_referer=&signature=hJ3Em98wRnCGkOYXIrp73QbT4tc%3D" width="600" height="800" >
+
 **_(*tip: 팁: 무음 장면이나 필요 없는 부분은 잘라내시기를..)_**
 영상 클립의 전환 효과입니다. 영상을 매우 자연스럽고 부드럽게 만듭니다. 단순히 화면을 돌리거나, 흐리게 하거나, 뒤집는 것부터 영화 효과, 렌즈 효과, 크로스 효과 등 다양합니다.
 [example](https://www.youtube.com/watch?v=p6L_2c0PThM)
 
 **_키프레임 활용 예시_**
+
+<img src="https://github.com/user-attachments/assets/40254a03-668e-4f89-b6d2-bf2bf292c113" width="600" height="800" >
+
 - `3 secs or less:`
 0:00: 투명도 0 / 0:45: 투명도 100 / end-0:15 (ex: 2:45 ): 투명도 100 / end (ex: 3:00): 투명도 0
 
@@ -141,4 +151,5 @@
 ## ~~00. Editor's Junk box~~
 
 <a href="https://youtu.be/Q_o6qiK2tFk?si=SpvtNlEYzOTjj-po"><img src="https://i.ytimg.com/vi/0Bqa2VLYY-M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBl93wJqEgNzBefOyJuPYFKvXh89Q" width="600" height="800"></a>
+
 **Role model #1**
