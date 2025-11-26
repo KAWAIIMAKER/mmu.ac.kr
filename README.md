@@ -8,6 +8,9 @@
 > **Made by WOOJIN(우진,うじん)**
 > 하트 표시한 것들이 추천세팅 입니다.
 
+> [!NOTE]
+> 영상 편집법에 대한 자료입니다. 모르는 점은 922swj@gmail.com 으로 연락 부탁드립니다.
+
 # 01. Setting
 영상 제작 전 `영상 화질`, `초당 프레임 수(FPS)`, `색상 영역`을 설정해야 합니다.
 <img src="https://github.com/user-attachments/assets/6051a127-e8ae-4095-9d8f-d00923314c03" width="600" height="800" >
@@ -45,12 +48,12 @@
 메인 자막, 메인 영상, 메인 이미지를 포함합니다. 중요하지 않은 클립은 5초 미만으로 짧게!
 
 ## 02-1. 자막 또는 텍스트
-**_권장 자막 위치_** - X, Y 좌표 기준
+> **_권장 자막 위치_** - X, Y 좌표 기준
 - 4K: 1920x1944
 - 1080p: 960x972
 - *높이를 10등분 했을 때, 바닥에서 첫 번째 칸에 배치합니다.
 
-**_자막 디자인_**
+> **_자막 디자인_**
 
 <img src="https://github.com/AHMUMAL/mmu_badasemi/blob/main/assets/Subtitle%20Design.png" width="600" height="800" >
 
@@ -79,28 +82,39 @@
 
 
 ## 02-1-1.**_추천 폰트 (KR,JP,EN)_**
-- 통상적인 자막 (고딕, 세리프(Serif)):
+
+한글 및 영어 폰트 찾는 곳:
+- [눈누](https://noonnu.cc/)
+- [fontmeme](https://fontmeme.com/ko/)
+- [GoogleFonts](https://fonts.google.com/)
+
+일본어 폰트 찾는 곳:
+- [BOOTH](https://booth.pm/)
+- [FreeJapaneseFonts](https://www.freejapanesefont.com/)
+- [Yamanaka Design](https://ymnk-design.com/font-2/)
+
+> 통상적인 자막 (고딕, 세리프(Serif)):
 
 | Country | Font |
 | --- | --- |
-| KR | BM Font Package, Cafe24 Fonts, Gmarket Sans, Noto sans KR, S-Core Dream, Wanted Sans KR, 굴림, 제주한라산체 |
-|JP|DeraSukoGothic, LineSeedJP, Pretendard|
+| KR | Cafe24 Fonts, Gmarket Sans, Noto sans KR, Pretendard, S-Core Dream, Wanted Sans KR, 굴림, 제주한라산체 |
+|JP| Dela Gothic One, DeraSukoGothic, GenEiPOPle, LineSeedJP, Pretendard, しっぽり太ゴシック,|
 ***
 
-- 브이로그, 인터뷰 자막 (Design font):
+> 브이로그 자막 (Design font):
 
 | Country | Font |
 | --- | --- |
-| KR |DXMSubtitles, EF Diary, Sandoll 미생, 더페이트샵 잉크립퀴드체, 봉숭아 틴트, 온글잎 (박다현체, 의연체), 이서윤체|
-| JP |BuildingTracks(ビルの谷間と高架下),FafoSans, komadori, PopRum Kiwi Telop, Umeboshi Font, しっぽり太ゴシック, 夏蝉丸ゴシック|
+| KR | DXMSubtitles, EF Diary, Sandoll 미생, 더페이트샵 잉크립퀴드체, 봉숭아 틴트, 온글잎 (박다현체, 의연체), 이서윤체|
+| JP | BuildingTracks(ビルの谷間と高架下), FafoSans, Hachi Maru Pop, Kiwi Maru, komadori, Pop Rum Cute, PopRum Kiwi Telop, Potta One, Umeboshi Font, あかずきんポップ, どきどきファンタジア, 夏蝉丸ゴシック|
 ***
 
-- 게임, 예능 자막:
+> 게임, 예능 자막:
 
 | Country | Font |
 | --- | --- |
-| KR |Black Han Sans, BM JUA, CookieRun, 넥슨 메이플스토리, DNF BitBit, NEO 둥근모, One Mobile Pop, SandBox 어그로, TMON 몬소리 Black|
-| JP |DokiDoki font|
+| KR | BM Font Package, Black Han Sans, BM JUA, CookieRun, 넥슨 메이플스토리, DNF BitBit, NEO 둥근모, One Mobile Pop, SandBox 어그로, TMON 몬소리 Black|
+| JP | Best10-FONT, DokiDoki font|
 
 
 ## 02-2. 사운드/시각 효과 (SFX, VFX)
@@ -109,26 +123,26 @@
 일반적으로 영상 편집에 필수적인 요소이지만, 처음에는 어떻게 시작하고 얻어야 할지 멘탈의 문제가 생기게 될 것입니다. 
 영상 편집 초보자들을 위해 제가 2019년부터 지금까지 ~~뺑이치며~~ 모아온 FX 정리 드라이브 링크를 공유하겠습니다.
 
-[GDrive (mmu 바다세미 전용)](https://drive.google.com/drive/folders/1hYij15dUIne6kz8dYn7V4KYMO1YjThe_?usp=drive_link)
+- [GDrive (mmu 바다세미 전용)](https://drive.google.com/drive/folders/1hYij15dUIne6kz8dYn7V4KYMO1YjThe_?usp=drive_link)
+- [크로마키 밈 모음 사이트](https://greenscreenmemes.com/)
+- [효과음 모음 사이트](https://www.myinstants.com/ko/index/kr/)
 
-[크로마키 밈 모음 사이트](https://greenscreenmemes.com/)
-
-[효과음 모음 사이트](https://www.myinstants.com/ko/index/kr/)
-
-**_효과(FX) 넣는 법 (Premiere Pro 기준)_**
+> **_효과(FX) 넣는 법 (Premiere Pro 기준)_**
 
 <img src="https://mblogthumb-phinf.pstatic.net/MjAxODEwMTFfODAg/MDAxNTM5MjQwNDg1Nzk0.3-4EbVhxWdgZBEKgLNrCg6TqvM7Ro9lHMY2I8KIaZ-0g.1GZSR4ETjT76BjAizAZGyNPaI0w0MtRy7ZTK83nqAggg.GIF.hanbyul2010/%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9A%A9.gif?type=w800" width="600" height="800" >
 
 
-**_전환효과 (트랜지션)_**
+> **_전환효과 (트랜지션)_**
 
 <img src="https://blog.kakaocdn.net/dna/kCR0x/btqIvDCEpAF/AAAAAAAAAAAAAAAAAAAAAFtG-_oCiI7aHeDZ9CgEThfkgdyFOterUyoLMYRR-3qC/img.gif?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1764514799&allow_ip=&allow_referer=&signature=hJ3Em98wRnCGkOYXIrp73QbT4tc%3D" width="600" height="800" >
 
-**_(*tip: 팁: 무음 장면이나 필요 없는 부분은 잘라내시기를..)_**
+> [!TIP]
+> **_팁: 무음 장면이나 필요 없는 부분은 잘라내시기를..._**
+
 영상 클립의 전환 효과입니다. 영상을 매우 자연스럽고 부드럽게 만듭니다. 단순히 화면을 돌리거나, 흐리게 하거나, 뒤집는 것부터 영화 효과, 렌즈 효과, 크로스 효과 등 다양합니다.
 [example](https://www.youtube.com/watch?v=p6L_2c0PThM)
 
-**_키프레임 활용 예시_**
+> **_키프레임 활용 예시_**
 
 <img src="https://github.com/user-attachments/assets/40254a03-668e-4f89-b6d2-bf2bf292c113" width="600" height="800" >
 
@@ -139,17 +153,17 @@
 0:00: 투명도 0 / 1:00 투명도 100 / end-0:30 (ex: 3:30 ): 투명도 100 / end (ex: 4:00): 투명 0
 
 가시성(visibility)이 변경되는 동안 확대, 회전, 애니메이션과 같은 다른 효과를 추가할 수 있습니다. 
-이것들을 템플릿화하면 작업 속도가 매우 빨라집니다.🔥🔥🔥 
-'트랄랄레로 트랄랄라'와 같은 짧은 밈을 추가할 때는 이러한 효과를 추가할 필요가 없습니다.
+얘네들을 취향대로 제작한 후후 템플릿화하면 작업 속도가 매우 빨라집니다.🔥🔥🔥 
+'트랄랄레로 트랄랄라🦈'와 같은 짧은 밈을 추가할 때는 이러한 효과를 추가할 필요가 없습니다.
 
-**_프리셋_**
+> **_프리셋_**
 
 설정한 효과(f/x) 값의 오프셋을 저장합니다. 동일한 효과를 추가하고 싶을 때 사용합니다.
-[export](https://www.youtube.com/watch?v=nDHrgSSLb-I)
-[import](https://www.youtube.com/watch?v=P9TBNyfx4kU)
+- [export(삽입하기)](https://www.youtube.com/watch?v=nDHrgSSLb-I)
+- [import(추출하기)](https://www.youtube.com/watch?v=P9TBNyfx4kU)
 
 ## ~~00. Editor's Junk box~~
 
-<a href="https://youtu.be/Q_o6qiK2tFk?si=SpvtNlEYzOTjj-po"><img src="https://i.ytimg.com/vi/0Bqa2VLYY-M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBl93wJqEgNzBefOyJuPYFKvXh89Q" width="600" height="800"></a>
+> <a href="https://youtu.be/Q_o6qiK2tFk?si=SpvtNlEYzOTjj-po"><img src="https://i.ytimg.com/vi/0Bqa2VLYY-M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBl93wJqEgNzBefOyJuPYFKvXh89Q" width="600" height="800"></a>
 
-**Role model #1**
+> **Role model #1**
