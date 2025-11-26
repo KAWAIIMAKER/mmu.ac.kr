@@ -125,7 +125,7 @@
 일반적으로 영상 편집에 필수적인 요소이지만, 처음에는 어떻게 시작하고 얻어야 할지 멘탈의 문제가 생기게 될 것입니다. 
 영상 편집 초보자들을 위해 제가 2019년부터 지금까지 ~~뺑이치며~~ 모아온 FX 정리 드라이브 링크를 공유하겠습니다.
 
-- [GDrive (mmu 바다세미 전용)](https://drive.google.com/drive/folders/1hYij15dUIne6kz8dYn7V4KYMO1YjThe_?usp=drive_link)
+- [GDrive (@mmu_badasemi 전용)](https://drive.google.com/drive/folders/1hYij15dUIne6kz8dYn7V4KYMO1YjThe_?usp=drive_link)
 - [크로마키 밈 모음 사이트](https://greenscreenmemes.com/)
 - [효과음 모음 사이트](https://www.myinstants.com/ko/index/kr/)
 
