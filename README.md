@@ -181,12 +181,9 @@
 - [효과음 모음 사이트](https://www.myinstants.com/ko/index/kr/)
 
 > **_효과(FX) 넣는 법 (Premiere Pro 기준)_**
-
 <img src="https://mblogthumb-phinf.pstatic.net/MjAxODEwMTFfODAg/MDAxNTM5MjQwNDg1Nzk0.3-4EbVhxWdgZBEKgLNrCg6TqvM7Ro9lHMY2I8KIaZ-0g.1GZSR4ETjT76BjAizAZGyNPaI0w0MtRy7ZTK83nqAggg.GIF.hanbyul2010/%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9A%A9.gif?type=w800" width="600" height="800" >
 
-
-> **_전환효과 (트랜지션)_**
-<img src="https://blog.kakaocdn.net/dna/kCR0x/btqIvDCEpAF/AAAAAAAAAAAAAAAAAAAAAFtG-_oCiI7aHeDZ9CgEThfkgdyFOterUyoLMYRR-3qC/img.gif?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1764514799&allow_ip=&allow_referer=&signature=hJ3Em98wRnCGkOYXIrp73QbT4tc%3D" width="600" height="800" >
+> **_전환효과 (트랜지션)_** <img src="https://blog.kakaocdn.net/dna/kCR0x/btqIvDCEpAF/AAAAAAAAAAAAAAAAAAAAAFtG-_oCiI7aHeDZ9CgEThfkgdyFOterUyoLMYRR-3qC/img.gif?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1764514799&allow_ip=&allow_referer=&signature=hJ3Em98wRnCGkOYXIrp73QbT4tc%3D" width="600" height="800" >
 
 > [!TIP]
 > **_팁: 무음 장면이나 필요 없는 부분은 잘라내시기를..._**
