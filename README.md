@@ -3,7 +3,7 @@
 <a href="https://www.youtube.com/watch?v=57j_HETJUHg"><img src="https://postfiles.pstatic.net/MjAyMDEyMDVfMjc4/MDAxNjA3MTU3NTUxMjMw.ZElT2N_t4K2wwF0tpKE5gBGw-5-U-urhjiug_xQBfCMg.76Rb6cZgDd5RHobBFr8XNXQ2banGleMcrLxMY4LF7g4g.PNG.badasemi/%EB%B0%94%EB%8B%A4%EC%84%B8%EB%AF%B8_%EC%8B%9C%EC%9E%91_%EB%B0%B0%EB%84%88.png?type=w773" width="800" height="600"></a>
 
 </n>(영문판: https://github.com/KAWAIIMAKER/kawaiimaker)
-> **Ver 260218.01**
+> **Ver 260219.01**
 > 
 > **Made by WOOJIN(우진,うじん) / 항해정보시스템학부 72기**
 > 
@@ -62,7 +62,7 @@
 
 >**참고 영상!**
 
-<a href="https://youtu.be/dcTz2Ktu7kE"><img src="https://i.ytimg.com/vi/dcTz2Ktu7kE/maxresdefault.jpg" width="800" height="600"></a>
+<a href="https://youtu.be/dcTz2Ktu7kE?si=TuM0vBpeZDp11KHB&t=49"><img src="https://i.ytimg.com/vi/dcTz2Ktu7kE/maxresdefault.jpg" width="800" height="600"></a>
 
 >**_기본적인 기술들_**
 
@@ -83,7 +83,7 @@
 - `J Cut`: 다음 클립의 사운드가 미리 재생되는 컷. 영상 화면과는 이질적인 사운드가 들린다면 제이컷. ( ex 갑자기 비오는 소리가 들리더니 얼마 후 비오는 장면이 나오는 편집)
 - `L cut`: 제이컷이랑 똑같은데 순서만 반대고, 이전 클립의 오디오가 다음 샷 앞에 재생되는 걸 의미.
 
->**_`기타`_**
+>**_기타_**
 - `Cut on action`: 대상의 움직임이나 감정에 맞춰서 편집하는 것을 의미.
 - `Cut away`: 인접 클립에는 직접적으로 관련이 없지만 간접적인 관련인 샷을 넣어서 편집하는 것을 의미. 예를 들어 스포츠 경기장면에서 운동선수를 잡다가 갑자기 관중석을 잡는 샷이 나온다고 하면, 이 관중석이 컷어웨이 임!
 
@@ -200,12 +200,17 @@
 > **_키프레임 활용 예시_**
 
 <img src="https://github.com/user-attachments/assets/40254a03-668e-4f89-b6d2-bf2bf292c113" width="600" height="800" >
+<img src="https://github.com/user-attachments/assets/d5f08a42-a278-4dea-bb46-fe0a01d4358b" width="600" height="800" >
 
-- `3 secs or less:`
+> 3 secs or less
+
 0:00: 투명도 0 / 0:45: 투명도 100 / end-0:15 (ex: 2:45 ): 투명도 100 / end (ex: 3:00): 투명도 0
++ 가속, 감속 프레임 활용. ex: 0:00 가속 - 0:45 감속 --- 2:45 가속 - 3:00 감속. 투명도 변화 속도가 달라짐에 따라 더 자연스러운 효과를 낼 수 있어요!
 
-- `Over 3 secs:`
+> Over 3 secs
+
 0:00: 투명도 0 / 1:00 투명도 100 / end-0:30 (ex: 3:30 ): 투명도 100 / end (ex: 4:00): 투명 0
++ 가속, 감속 프레임 활용. ex: 0:00 가속 - 1:00 감속 --- 3:30 가속 - 4:00 감속. 투명도 변화 속도가 달라짐에 따라 더 자연스러운 효과를 낼 수 있어요!
 
 가시성(visibility)이 변경되는 동안 확대, 회전, 애니메이션과 같은 다른 효과를 추가할 수 있습니다. 
 얘네들을 취향대로 제작한 후후 템플릿화하면 작업 속도가 매우 빨라집니다.🔥🔥🔥 
