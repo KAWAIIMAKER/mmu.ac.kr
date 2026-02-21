@@ -5,7 +5,7 @@
 </n>(영문판: https://github.com/KAWAIIMAKER/kawaiimaker)
 > **Ver 260219.01**
 > 
-> **Made by WOOJIN(우진,うじん) / 항해정보시스템학부 72기**
+> **Made by @wjs9.22 / 항해정보시스템학부 72기**
 > 
 > 하트 표시한 것이나 강조표시한 것들이 추천세팅 입니다.
 > Adobe Premiere Pro 및 CAPCUT 기준으로 작성되었습니다.
