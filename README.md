@@ -223,7 +223,7 @@
 > **_중첩 시퀀스 or 그룹화_**
 영상 여러개를 묶을 때 사용합니다. 일괄적으로 FX를 넣거나 키프레임을 적용할 때 사용합니다.
 
-## ~~00. Editor's Junk box~~
+## 05. Reference
 
 > <a href="https://youtu.be/Q_o6qiK2tFk?si=SpvtNlEYzOTjj-po"><img src="https://i.ytimg.com/vi/0Bqa2VLYY-M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBl93wJqEgNzBefOyJuPYFKvXh89Q" width="600" height="800"></a>
 
