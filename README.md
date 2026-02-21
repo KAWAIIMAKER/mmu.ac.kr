@@ -227,3 +227,7 @@
 > <a href="https://youtu.be/Q_o6qiK2tFk?si=SpvtNlEYzOTjj-po"><img src="https://i.ytimg.com/vi/0Bqa2VLYY-M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBl93wJqEgNzBefOyJuPYFKvXh89Q" width="600" height="800"></a>
 
 > **Role model #1**
+
+> <a href="https://youtu.be/e4QiDE9_bvc?si=NthAj_gFR42g4bhZ"><img src="https://pbs.twimg.com/media/G7Px_e9a0AExHiw?format=jpg&name=large" width="600" height="800"></a>
+
+> **~~하라주쿠 가고 싶다~~**
