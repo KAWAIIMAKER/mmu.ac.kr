@@ -235,9 +235,8 @@
 | <a href="https://youtu.be/e4QiDE9_bvc?si=NthAj_gFR42g4bhZ"><img src="https://pbs.twimg.com/media/G7Px_e9a0AExHiw?format=jpg&name=large" width="600" height="800"></a> | <a href="https://www.youtube.com/watch?v=2T7N970KS8E"><img src="https://pbs.twimg.com/media/G8Hr9OiaEAAGNY6?format=jpg&name=4096x4096" width="600" height="800"></a> |
 | --- | --- |
 
-> 이 영상👺같은 모션그래픽 자유롭게 다루는 후배님들 구해여... 저는 실습땜에 여유가 없어서 내년에...🥹
-> 
-> **~~하라주쿠 또 가고 싶다...~~**
+> 이 영상👺같은 모션그래픽 자유롭게 다루는 후배님들 구해여... 
+> 저는 실습땜에 여유가 없어서 내년에...🥹 **~~하라주쿠 또 가고 싶다...~~**
 
-| <a href="https://www.youtube.com/watch?v=tpFDnOnOdSQ"><img src="https://i.ytimg.com/vi/hhPalbt5Cq8/maxresdefault.jpg" width="600" height="800"></a> |
-| --- |
+| <a href="https://www.youtube.com/watch?v=tpFDnOnOdSQ"><img src="https://i.ytimg.com/vi/hhPalbt5Cq8/maxresdefault.jpg" width="600" height="800"></a> | <a href="https://www.youtube.com/watch?v=dnXc48FLyE4"><img src="https://api.grove.tokyo/wp15/wp-content/uploads/2025/12/madamada-1536x1024.jpg" width="600" height="800"></a> |
+| --- | --- |
