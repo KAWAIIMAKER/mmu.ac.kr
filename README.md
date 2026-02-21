@@ -231,4 +231,6 @@
 
 > <a href="https://youtu.be/e4QiDE9_bvc?si=NthAj_gFR42g4bhZ"><img src="https://pbs.twimg.com/media/G7Px_e9a0AExHiw?format=jpg&name=large" width="600" height="800"></a>
 
-> **~~하라주쿠 가고 싶다~~**
+> 이 영상👺같은 모션그래픽 자유롭게 다루는 후배님들 구해여... 저는 실습땜에 여유가 없어서 내년에...🥹
+>
+> **~~하라주쿠 또 가고 싶다...~~**
