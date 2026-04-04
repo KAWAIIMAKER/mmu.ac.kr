@@ -3,12 +3,13 @@
 <a href="https://www.youtube.com/watch?v=57j_HETJUHg"><img src="https://postfiles.pstatic.net/MjAyMDEyMDVfMjc4/MDAxNjA3MTU3NTUxMjMw.ZElT2N_t4K2wwF0tpKE5gBGw-5-U-urhjiug_xQBfCMg.76Rb6cZgDd5RHobBFr8XNXQ2banGleMcrLxMY4LF7g4g.PNG.badasemi/%EB%B0%94%EB%8B%A4%EC%84%B8%EB%AF%B8_%EC%8B%9C%EC%9E%91_%EB%B0%B0%EB%84%88.png?type=w773" width="800" height="600"></a>
 
 </n>(영문판: https://github.com/KAWAIIMAKER/kawaiimaker)
-> **Ver 260219.01**
+> **Ver 260404.01**
 > 
 > **Made by @wjs9.22 / 항해정보시스템학부 72기**
 > 
 > 하트 표시한 것이나 강조표시한 것들이 추천세팅 입니다.
 > Adobe Premiere Pro 및 CAPCUT 기준으로 작성되었습니다.
+> 74기 후배님들을 위해 4월 말 이내로 가독성 개선 및 자료 추가 예정입니다.
 
 > [!NOTE]
 > 국립목포해양대학교 홍보대사 바다세미의 후배님들을 위한 영상 편집법에 대한 자료입니다. 모르는 점이나 질문은 922swj@gmail.com으로 연락주세요!
