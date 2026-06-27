@@ -1,11 +1,10 @@
-# mmu.ac.kr
 # 영상 제작 교육 자료 for @mmu_badasemi
-<a href="https://www.youtube.com/watch?v=57j_HETJUHg"><img src="https://postfiles.pstatic.net/MjAyMDEyMDVfMjc4/MDAxNjA3MTU3NTUxMjMw.ZElT2N_t4K2wwF0tpKE5gBGw-5-U-urhjiug_xQBfCMg.76Rb6cZgDd5RHobBFr8XNXQ2banGleMcrLxMY4LF7g4g.PNG.badasemi/%EB%B0%94%EB%8B%A4%EC%84%B8%EB%AF%B8_%EC%8B%9C%EC%9E%91_%EB%B0%B0%EB%84%88.png?type=w773" width="800" height="600"></a>
+<a href="https://youtu.be/6iNZDgXKVIs?si=W9imztBIHj7Uslrb"><img src="https://postfiles.pstatic.net/MjAyMDEyMDVfMjc4/MDAxNjA3MTU3NTUxMjMw.ZElT2N_t4K2wwF0tpKE5gBGw-5-U-urhjiug_xQBfCMg.76Rb6cZgDd5RHobBFr8XNXQ2banGleMcrLxMY4LF7g4g.PNG.badasemi/%EB%B0%94%EB%8B%A4%EC%84%B8%EB%AF%B8_%EC%8B%9C%EC%9E%91_%EB%B0%B0%EB%84%88.png?type=w773"></a>
 
 </n>(영문판: https://github.com/KAWAIIMAKER/kawaiimaker)
-> **Ver 260404.01**
+> **Ver 260628.01**
 > 
-> **Made by @wjs9.22 / 항해정보시스템학부 72기**
+> **Made by @wjs9.22 / ㅎㅈ 72기**
 > 
 > 하트 표시한 것이나 강조표시한 것들이 추천세팅 입니다.
 > Adobe Premiere Pro 및 CAPCUT 기준으로 작성되었습니다.
@@ -16,15 +15,15 @@
 > 국립목포해양대학교 홍보대사 바다세미의 후배님들을 위한 영상 편집법에 대한 자료입니다. 모르는 점이나 질문은 922swj@gmail.com으로 연락주세요!
 
 # 01. Setting
-**영상 제작 전 `영상 화질`, `초당 프레임 수(FPS)`, `색상 영역`을 설정해보아요!!(❁´▽`❁)**
+**영상 제작 전 `영상 화질`, `초당 프레임 수(FPS)`, `색상 영역`을 설정해 볼까요??!!😇**
 
 >**`Premiere Pro 기준`** 'Ctrl+N' - '시퀀스 설정' / 사전 지정 필요 ⭕
 
-<img src="https://github.com/user-attachments/assets/6051a127-e8ae-4095-9d8f-d00923314c03" width="600" height="800" >
+<a href="https://www.youtube.com/watch?v=SfT4FMkh1-w"><img src="https://github.com/user-attachments/assets/6051a127-e8ae-4095-9d8f-d00923314c03" width="600" height="800" ></a>
 
 >**`CAPCUT 기준`** 우상단에 'AI UHD', 영상 내보내기 할 때 지정 / 사전 지정 필요 ❌
 
-<img src="https://github.com/user-attachments/assets/d3ee2e15-e8ee-410d-aab3-b17b6ebaa655" width="600" height="800" >
+<img src="https://github.com/user-attachments/assets/d3ee2e15-e8ee-410d-aab3-b17b6ebaa655" >
 
 >**_해상도 또는 프레임 크기🎬_**
 - ***♡ `3840x2160 4K UHD`♡: TV 수준의 높은 화질, 그러나 매우 높은 사양이 요구됨.***
@@ -55,6 +54,13 @@
 - 풍경 촬영영상, **`시네마틱`**: 4K - 24FPS - PQ (HDR 10bit)
 - 릴스, 쇼츠, 틱톡과 같은 **`숏폼`**: 1080x1920(세로) - 30~60FPS - Rec. 709 10bit
 
+> [!TIP]
+> **_이게 뭔 소리인지 이해가 안되신다고요??_**
+> 
+> 괜찮습니다. 천천히 배워가면 됩니다.
+> 
+> 일단 가로 영상은 4K, 세로는 기본 화질로 두고 프레임 수는 편한대로... 색감은 건들지 않는 걸로!
+
 # 02. 컷편집
 **영상의 불필요한 부분을 잘라내고, 자연스럽게 장면을 전환하며 편집하는 영상 편집 기법입니다.**
 
@@ -62,13 +68,8 @@
 - `인터뷰`: 최대한 핵심 내용 중점으로.
 - `중요하지 않은 클립`: 5초 이내
 
->**참고 영상!**
-
-<a href="https://youtu.be/dcTz2Ktu7kE?si=TuM0vBpeZDp11KHB&t=49"><img src="https://i.ytimg.com/vi/dcTz2Ktu7kE/maxresdefault.jpg" width="800" height="600"></a>
-
 >**_기본적인 기술들_**
-
-<img src="https://github.com/user-attachments/assets/b83d1c58-774b-4c76-b403-10db6ab5a52c" width="800" height="600"></a>
+<img src="https://github.com/user-attachments/assets/b83d1c58-774b-4c76-b403-10db6ab5a52c"></a>
 
 - `Q`: 불필요한 앞 클립을 완전히 제거할 때 사용.
 - `W`: Q 컷과 비슷하게 불필요한 뒷부분을 완전 제거함.
@@ -78,6 +79,13 @@
 - `Standard cut`: 묵음 부분과 같은 지루한 부분을 잘라내고 스토리를 가장 깔끔하고 효과적으로 전달할 방법.
 - `Jump cut`: 말 그대로 점프하는 것처럼 느껴지는 샷인데 길게 촬영된 클립의 중간 중간을 잘라내 버리고 나머지 부분을 붙여서 편집.
 
+> [!TIP]
+>  **_이게 뭔 소리인지 이해가 안되신다고요??_**
+>
+> <a href="https://youtu.be/dcTz2Ktu7kE?si=TuM0vBpeZDp11KHB&t=49">
+>  
+>**참고 영상!**을 봐주세요!!
+  
 > [!WARNING]
 > **_여기부터는 좀 더 어려운 내용을 다룹니다. 전문적인 편집에 관심이 있다면 필수!!_**
 
@@ -102,12 +110,12 @@
 
 `프리미어 프로`
 
-<img src="https://github.com/AHMUMAL/mmu_badasemi/blob/main/assets/Subtitle%20Design.png" width="600" height="800">
+<img src="https://github.com/AHMUMAL/mmu_badasemi/blob/main/assets/Subtitle%20Design.png">
 
 `캡컷`
 > 일반 자막의 경우 클릭 후 `스타일`, 캡션의 경우 `캡션 스타일` - `스타일`
 
-<img src="https://github.com/user-attachments/assets/90d6b3f9-b99a-4324-98e9-a4cf2a048fc5" width="600" height="800">
+<img src="https://github.com/user-attachments/assets/90d6b3f9-b99a-4324-98e9-a4cf2a048fc5">
 
 
 >**_1. 글꼴 (폰트)✍️_** 
@@ -134,6 +142,12 @@
 
 약간의 각도와 거리를 주어 3차원 효과를 만듭니다. 아래쪽에 배치하여 음영 효과를 주거나, 테두리 색상과 맞춰 글자를 빛나게 하는 등 다양한 효과를 줍니다.
 
+> [!TIP]
+>  **_이게 뭔 소리인지 이해가 안되신다고요??_**
+>
+> 프리미어프로를 다룰 정도라면 폰트 입력법과 디자인은 알거라고 믿겠습니다!!
+>
+> 캡컷의 경우에는 이미 개발자가 만들어놓은 템플릿을 써도 무관합니다! (하지만 양산형 영상 +1이 될 수 있습니다.)
 
 ## 03-1-1.**_추천 폰트 (KR,JP,EN)_**
 
@@ -175,7 +189,9 @@
 # 04. 사운드/시각 효과 (SFX, VFX)
 
 `사운드/시각 효과 (FX)`는 영상의 재미를 높일 뿐만 아니라 시청자의 집중을 유도하는 데 매우 중요한 요소입니다. 
-일반적으로 영상 편집에 필수적인 요소이지만, 처음에는 어떻게 시작하고 얻어야 할지 멘탈의 문제가 생기게 될 거에요🫠.
+
+일반적으로 영상 편집에 필수적인 요소이지만, 처음에는 어떻게 시작하고 얻어야 할지 멘탈의 문제가 생기게 될 거에요🫠
+
 영상 편집 초보자들을 위해 제가 2019년부터 지금까지 모아온 FX 정리 드라이브 링크를 공유하겠습니다.
 
 - [GDrive (@mmu_badasemi 전용)](https://drive.google.com/drive/folders/1hYij15dUIne6kz8dYn7V4KYMO1YjThe_?usp=drive_link)
@@ -183,9 +199,9 @@
 - [효과음 모음 사이트](https://www.myinstants.com/ko/index/kr/)
 
 > **_효과(FX) 넣는 법 (Premiere Pro 기준)_**
-<img src="https://mblogthumb-phinf.pstatic.net/MjAxODEwMTFfODAg/MDAxNTM5MjQwNDg1Nzk0.3-4EbVhxWdgZBEKgLNrCg6TqvM7Ro9lHMY2I8KIaZ-0g.1GZSR4ETjT76BjAizAZGyNPaI0w0MtRy7ZTK83nqAggg.GIF.hanbyul2010/%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9A%A9.gif?type=w800" width="600" height="800" >
+<img src="https://mblogthumb-phinf.pstatic.net/MjAxODEwMTFfODAg/MDAxNTM5MjQwNDg1Nzk0.3-4EbVhxWdgZBEKgLNrCg6TqvM7Ro9lHMY2I8KIaZ-0g.1GZSR4ETjT76BjAizAZGyNPaI0w0MtRy7ZTK83nqAggg.GIF.hanbyul2010/%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9A%A9.gif?type=w800">
 
-> **_전환효과 (트랜지션)_** <img src="https://blog.kakaocdn.net/dna/kCR0x/btqIvDCEpAF/AAAAAAAAAAAAAAAAAAAAAFtG-_oCiI7aHeDZ9CgEThfkgdyFOterUyoLMYRR-3qC/img.gif?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1764514799&allow_ip=&allow_referer=&signature=hJ3Em98wRnCGkOYXIrp73QbT4tc%3D" width="600" height="800" >
+> **_전환효과 (트랜지션)_** <img src="https://blog.kakaocdn.net/dna/kCR0x/btqIvDCEpAF/AAAAAAAAAAAAAAAAAAAAAFtG-_oCiI7aHeDZ9CgEThfkgdyFOterUyoLMYRR-3qC/img.gif?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1764514799&allow_ip=&allow_referer=&signature=hJ3Em98wRnCGkOYXIrp73QbT4tc%3D">
 
 > [!TIP]
 > **_팁: 무음 장면이나 필요 없는 부분은 잘라내시기를..._**
@@ -198,8 +214,8 @@
 
 > **_키프레임 활용 예시_**
 
-<img src="https://github.com/user-attachments/assets/40254a03-668e-4f89-b6d2-bf2bf292c113" width="600" height="800" >
-<img src="https://github.com/user-attachments/assets/d5f08a42-a278-4dea-bb46-fe0a01d4358b" width="600" height="800" >
+<img src="https://github.com/user-attachments/assets/40254a03-668e-4f89-b6d2-bf2bf292c113">
+<img src="https://github.com/user-attachments/assets/d5f08a42-a278-4dea-bb46-fe0a01d4358b">
 
 > 3 secs or less
 
@@ -226,7 +242,7 @@
 
 # 05. Reference
 
-> <a href="https://youtu.be/Q_o6qiK2tFk?si=SpvtNlEYzOTjj-po"><img src="https://i.ytimg.com/vi/0Bqa2VLYY-M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBl93wJqEgNzBefOyJuPYFKvXh89Q" width="600" height="800"></a>
+> <a href="https://youtu.be/Q_o6qiK2tFk?si=SpvtNlEYzOTjj-po"><img src="https://i.ytimg.com/vi/0Bqa2VLYY-M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBl93wJqEgNzBefOyJuPYFKvXh89Q"></a>
 
 > **Role model #1**
 
@@ -236,5 +252,58 @@
 > 이 영상👺같은 모션그래픽 자유롭게 다루는 후배님들 구해여... 
 > 저는 실습땜에 여유가 없어서 내년에...🥹 **~~하라주쿠 또 가고 싶다...~~**
 
-| <a href="https://www.youtube.com/watch?v=tpFDnOnOdSQ"><img src="https://i.ytimg.com/vi/hhPalbt5Cq8/maxresdefault.jpg" width="600" height="800"></a> | <a href="https://www.youtube.com/watch?v=dnXc48FLyE4"><img src="https://api.grove.tokyo/wp15/wp-content/uploads/2025/12/madamada-1536x1024.jpg" width="600" height="800"></a> |
+| <a href="https://www.youtube.com/watch?v=tpFDnOnOdSQ"><img src="https://i.ytimg.com/vi/hhPalbt5Cq8/maxresdefault.jpg"></a> | <a href="https://www.youtube.com/watch?v=dnXc48FLyE4"><img src="https://api.grove.tokyo/wp15/wp-content/uploads/2025/12/madamada-1536x1024.jpg"></a> |
 | --- | --- |
+| M!LK - **폭렬**사랑해| MADAMADA - 바부하는 Bubble |
+
+| <a href="https://www.youtube.com/watch?v=tpFDnOnOdSQ"><img src="https://img.youtube.com/vi/JRxsWaLGqOw/maxresdefault.jpg"></a> |
+| --- |
+| **2026/6/25** 여러분 좋됐어요!!! MEBS 기술부장에게 먹히겠어요!!!!!! 아래 영상들을 참고해서 참신한 영상들을 만들어봐요!! |
+
+> [!WARNING]
+> **_🤡🤡🤡🤡🤡🤡🤡🤡🤡여기부터는 제작자의 취향이 매우매우 강하게 반영된 내용을 다룹니다!!_**
+
+> [!WARNING]
+> **_🤡🤡🤡🤡🤡🤡🤡🤡🤡여기부터는 제작자의 취향이 매우매우 강하게 반영된 내용을 다룹니다!!_**
+
+> [!WARNING]
+> **_🤡🤡🤡🤡🤡🤡🤡🤡🤡여기부터는 제작자의 취향이 매우매우 강하게 반영된 내용을 다룹니다!!_**
+
+> [!WARNING]
+> **_🤡🤡🤡🤡🤡🤡🤡🤡🤡여기부터는 제작자의 취향이 매우매우 강하게 반영된 내용을 다룹니다!!_**
+
+> [!WARNING]
+> **_🤡🤡🤡🤡🤡🤡🤡🤡🤡여기부터는 제작자의 취향이 매우매우 강하게 반영된 내용을 다룹니다!!_**
+
+> [!WARNING]
+> **_🤡🤡🤡🤡🤡🤡🤡🤡🤡여기부터는 제작자의 취향이 매우매우 강하게 반영된 내용을 다룹니다!!_**
+
+> [!WARNING]
+> **_🤡🤡🤡🤡🤡🤡🤡🤡🤡여기부터는 제작자의 취향이 매우매우 강하게 반영된 내용을 다룹니다!!_**
+
+> [!WARNING]
+> **_🤡🤡🤡🤡🤡🤡🤡🤡🤡여기부터는 제작자의 취향이 매우매우 강하게 반영된 내용을 다룹니다!!_**
+
+> [!WARNING]
+> **_🤡🤡🤡🤡🤡🤡🤡🤡🤡여기부터는 제작자의 취향이 매우매우 강하게 반영된 내용을 다룹니다!!_**
+
+> [!WARNING]
+> **_🤡🤡🤡🤡🤡🤡🤡🤡🤡여기부터는 제작자의 취향이 매우매우 강하게 반영된 내용을 다룹니다!!_**
+
+> [!WARNING]
+> **_🤡🤡🤡🤡🤡🤡🤡🤡🤡여기부터는 제작자의 취향이 매우매우 강하게 반영된 내용을 다룹니다!!_**
+
+| <a href="https://youtu.be/5uMZ_-XTrDE?si=Hvem9n6YGzN0Dn1p"><img src="https://onephony.com/static/images/etawn107rl9eowckz2mtb1l4qti6i7.jpg"></a> | <a href="https://www.youtube.com/watch?v=ewgsDJJntY4"><img src="https://pbs.twimg.com/media/HKxaIrPa0AAsfo2.jpg"></a> |
+| --- | --- |
+| Onephony - 태어날 때 부터 백역사 | Kiminimunekyun - 들켜들켜 시크레츄~ |
+| 예상반응: ~~이게 뭔데 이사람아;;;;;;;;;;;;;;;;;;;;;~~ | 예상반응: 🫠🫠🫠🫠😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😭😭😭😭😩😩😩😩😱😱😱😱😇😇😇😇......................|
+
+지뢰계 ❌❌❌❌ FOR ADULT ❌❌❌❌ JPOP 🙆🙆🙆🙆
+
+모션 움직임을 참고해주세요!! 영상에 역동적인 모션 폰트 (일본어로 PV moji)를 넣어볼까요?
+그러면 After Effects 인수인계도 해야하는데 샤갈~~~~~~~~~~~~~~~~~~~~~~~🫠🫠🫠🫠🫠🫠🫠🫠🫠
+에펙 자료쓰려면 수십장은 나오는데 실습 다녀와서 업데이트 하는 걸로......
+**실습을 변기🚽🚽에 넣고 내려🪠🪠**
+
+일단 백역사 노래의 모션 폰트를 만들어 볼까요??
+~~~~~~추후 업데이트 예정
