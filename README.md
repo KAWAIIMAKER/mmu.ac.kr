@@ -293,10 +293,10 @@
 > [!WARNING]
 > **_🤡🤡🤡🤡🤡🤡🤡🤡🤡여기부터는 제작자의 취향이 매우매우 강하게 반영된 내용을 다룹니다!!_**
 
-| <a href="https://youtu.be/5uMZ_-XTrDE?si=Hvem9n6YGzN0Dn1p"><img src="https://onephony.com/static/images/etawn107rl9eowckz2mtb1l4qti6i7.jpg"></a> | <a href="https://www.youtube.com/watch?v=ewgsDJJntY4"><img src="https://pbs.twimg.com/media/HKxaIrPa0AAsfo2.jpg"></a> |
-| --- | --- |
-| Onephony - 태어날 때 부터 백역사 | Kiminimunekyun - 들켜들켜 시크레츄~ |
-| 예상반응: ~~이게 뭔데 이사람아;;;;;;;;;;;;;;;;;;;;;~~ | 예상반응: 🫠🫠🫠🫠😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😭😭😭😭😩😩😩😩😱😱😱😱😇😇😇😇......................|
+| <a href="https://youtu.be/5uMZ_-XTrDE?si=Hvem9n6YGzN0Dn1p"><img src="https://onephony.com/static/images/etawn107rl9eowckz2mtb1l4qti6i7.jpg"></a> |
+| --- |
+| Onephony - 태어날 때 부터 백역사 | 
+| 예상반응: 🫠🫠🫠🫠😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😭😭😭😭😩😩😩😩😱😱😱😱😇😇😇😇......................|
 
 지뢰계 ❌❌❌❌ FOR ADULT ❌❌❌❌ JPOP 🙆🙆🙆🙆
 
