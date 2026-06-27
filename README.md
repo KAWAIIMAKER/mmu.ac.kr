@@ -249,13 +249,6 @@
 > [!WARNING]
 > **_여기부터는 제작자의 취향이 반영된 내용을 다룹니다!!_**
 
-> 이 영상👺같은 모션그래픽 자유롭게 다루는 후배님들 구해여... 
-> 저는 실습땜에 여유가 없어서 내년에...🥹 **~~하라주쿠 또 가고 싶다...~~**
-
-| <a href="https://www.youtube.com/watch?v=tpFDnOnOdSQ"><img src="https://i.ytimg.com/vi/hhPalbt5Cq8/maxresdefault.jpg"></a> | <a href="https://www.youtube.com/watch?v=dnXc48FLyE4"><img src="https://api.grove.tokyo/wp15/wp-content/uploads/2025/12/madamada-1536x1024.jpg"></a> |
-| --- | --- |
-| M!LK - **폭렬**사랑해| MADAMADA - 바부하는 Bubble |
-
 | <a href="https://www.youtube.com/watch?v=tpFDnOnOdSQ"><img src="https://img.youtube.com/vi/JRxsWaLGqOw/maxresdefault.jpg"></a> |
 | --- |
 | **2026/6/25** 여러분 저 됐어요 좋됐어요!!! MEBS 기술부장에게 먹히겠어요!!!!!! 아래 영상들을 참고해서 참신한 영상들을 만들어봐요!! |
@@ -293,6 +286,15 @@
 > [!WARNING]
 > **_🤡🤡🤡🤡🤡🤡🤡🤡🤡여기부터는 제작자의 취향이 매우매우 강하게 반영된 내용을 다룹니다!!_**
 
+
+> 이 영상 같은 모션그래픽 자유롭게 다루는 후배님들 구해여... 
+> 저는 실습땜에 여유가 없어서 내년에...🥹 **~~하라주쿠 또 가고 싶다...~~**
+
+| <a href="https://www.youtube.com/watch?v=tpFDnOnOdSQ"><img src="https://i.ytimg.com/vi/hhPalbt5Cq8/maxresdefault.jpg"></a> | <a href="https://www.youtube.com/watch?v=dnXc48FLyE4"><img src="https://api.grove.tokyo/wp15/wp-content/uploads/2025/12/madamada-1536x1024.jpg"></a> |
+| --- | --- |
+| M!LK - **폭렬**사랑해| MADAMADA - 바부하는 Bubble |
+
+
 | <a href="https://youtu.be/5uMZ_-XTrDE?si=Hvem9n6YGzN0Dn1p"><img src="https://onephony.com/static/images/etawn107rl9eowckz2mtb1l4qti6i7.jpg"></a> |
 | --- |
 | Onephony - 태어날 때 부터 백역사 | 
@@ -305,5 +307,5 @@
 에펙 자료쓰려면 수십장은 나오는데 실습 다녀와서 업데이트 하는 걸로......
 **실습을 변기🚽🚽에 넣고 내려🪠🪠**
 
-일단 백역사 노래의 모션 폰트를 만들어 볼까요??
+일단 원포니 누나들의 백역사 노래에 나온 모션 폰트들을 만들어 볼까요??
 ~~~~~~추후 업데이트 예정
