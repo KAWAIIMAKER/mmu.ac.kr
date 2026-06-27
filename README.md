@@ -258,7 +258,7 @@
 
 | <a href="https://www.youtube.com/watch?v=tpFDnOnOdSQ"><img src="https://img.youtube.com/vi/JRxsWaLGqOw/maxresdefault.jpg"></a> |
 | --- |
-| **2026/6/25** 여러분 좋됐어요!!! MEBS 기술부장에게 먹히겠어요!!!!!! 아래 영상들을 참고해서 참신한 영상들을 만들어봐요!! |
+| **2026/6/25** 여러분 저 됐어요 좋됐어요!!! MEBS 기술부장에게 먹히겠어요!!!!!! 아래 영상들을 참고해서 참신한 영상들을 만들어봐요!! |
 
 > [!WARNING]
 > **_🤡🤡🤡🤡🤡🤡🤡🤡🤡여기부터는 제작자의 취향이 매우매우 강하게 반영된 내용을 다룹니다!!_**
