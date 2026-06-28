@@ -1,4 +1,4 @@
-# 영상 제작 교육 자료 for @mmu_badasemi
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/51b9c79d-f38a-44f1-a829-e0bbc62da5bf" /># 영상 제작 교육 자료 for @mmu_badasemi
 <a href="https://youtu.be/6iNZDgXKVIs?si=W9imztBIHj7Uslrb"><img src="https://postfiles.pstatic.net/MjAyMDEyMDVfMjc4/MDAxNjA3MTU3NTUxMjMw.ZElT2N_t4K2wwF0tpKE5gBGw-5-U-urhjiug_xQBfCMg.76Rb6cZgDd5RHobBFr8XNXQ2banGleMcrLxMY4LF7g4g.PNG.badasemi/%EB%B0%94%EB%8B%A4%EC%84%B8%EB%AF%B8_%EC%8B%9C%EC%9E%91_%EB%B0%B0%EB%84%88.png?type=w773"></a>
 
 </n>(영문판: https://github.com/KAWAIIMAKER/kawaiimaker)
@@ -306,13 +306,26 @@
 > [!WARNING]
 > **_🤡🤡🤡🤡🤡🤡🤡🤡🤡여기부터는 제작자의 취향이 매우매우 강하게 반영된 내용을 다룹니다!!_**
 
+> [!WARNING]
+> **_🗾🏯🎌👘⛩️여기부터는 일본 관련 컨텐츠를 다룹니다. 취향이 아니라면 나가주세요!!_**
 
-> 이 영상 같은 모션그래픽 자유롭게 다루는 후배님들 구해여... 
-> 저는 실습땜에 여유가 없어서 내년에...🥹 **~~하라주쿠 또 가고 싶다...~~**
+> [!WARNING]
+> **_🗾🏯🎌👘⛩️여기부터는 일본 관련 컨텐츠를 다룹니다. 취향이 아니라면 나가주세요!!_**
 
-| <a href="https://www.youtube.com/watch?v=tpFDnOnOdSQ"><img src="https://i.ytimg.com/vi/hhPalbt5Cq8/maxresdefault.jpg"></a> | <a href="https://www.youtube.com/watch?v=dnXc48FLyE4"><img src="https://api.grove.tokyo/wp15/wp-content/uploads/2025/12/madamada-1536x1024.jpg"></a> |
-| --- | --- |
-| M!LK - **폭렬**사랑해| MADAMADA - 응애(바부)하는 Bubble |
+> [!WARNING]
+> **_🗾🏯🎌👘⛩️여기부터는 일본 관련 컨텐츠를 다룹니다. 취향이 아니라면 나가주세요!!_**
+
+> [!WARNING]
+> **_🗾🏯🎌👘⛩️여기부터는 일본 관련 컨텐츠를 다룹니다. 취향이 아니라면 나가주세요!!_**
+
+> [!WARNING]
+> **_🗾🏯🎌👘⛩️여기부터는 일본 관련 컨텐츠를 다룹니다. 취향이 아니라면 나가주세요!!_**
+
+> [!WARNING]
+> **_🐶🐶🐶🐶🐶여기부터는 작성자의 개소리를 다룹니다!!🐶🐶🐶🐶🐶_**
+
+> [!WARNING]
+> **_🐶🐶🐶🐶🐶여기부터는 작성자의 개소리를 다룹니다!!🐶🐶🐶🐶🐶_**
 
 > [!WARNING]
 > **_😇😇😇😇😇여기부터는 머리가 하얘질 수 있는 내용을 다룹니다!!😇😇😇😇😇_**
@@ -320,19 +333,13 @@
 > [!WARNING]
 > **_😇😇😇😇😇여기부터는 머리가 하얘질 수 있는 내용을 다룹니다!!😇😇😇😇😇_**
 
-> [!WARNING]
-> **_😇😇😇😇😇여기부터는 머리가 하얘질 수 있는 내용을 다룹니다!!😇😇😇😇😇_**
-
-> [!WARNING]
-> **_😇😇😇😇😇여기부터는 머리가 하얘질 수 있는 내용을 다룹니다!!😇😇😇😇😇_**
-
-> [!WARNING]
-> **_😇😇😇😇😇여기부터는 머리가 하얘질 수 있는 내용을 다룹니다!!😇😇😇😇😇_**
+> **~~작성자는 일본을 또 가고싶다...~~**
 
 | <a href="https://youtu.be/5uMZ_-XTrDE?si=Hvem9n6YGzN0Dn1p"><img src="https://onephony.com/static/images/etawn107rl9eowckz2mtb1l4qti6i7.jpg"></a> |
 | --- |
 | Onephony - 태어날 때 부터 백역사 | 
-| 예상반응: 🫠🫠🫠🫠😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😱😱😱😱😇😇😇😇......................|
+| 이 영상이 따라하기 쉬울 거 같아 1번에 둡니다.<br>예상반응: 🫠🫠🫠🫠😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😱😱😱😱😇😇😇😇...................... |
+| **사용된 효과들에 대해서 분석해보자.**<br>0:06 배경과 인물 사이에 로고 넣기 (인물 레이어를 하나 더 복제한 후 그 사이에 로고를 넣는다.)<br>0:11 자연스럽게 크기가 줄어드면서 타이핑 형식으로 등장<br>0:19 자간을 자연스럽게 좁히면서 (가,감속 프레임)<br>0:22 자가을 위 아래로 좁히며, 좌우로 퇴장<br>0:25 흔들리며 병풍처럼 배치, 반투명도 교차로 자연스러운 트렌지션<br>0:28 아래 자료 참고; 동그라미 형식으로 한 번 튕긴 후 등장<br>이후에는 효과 반복사용 |
 
 지뢰계 ❌❌❌❌ FOR ADULT ❌❌❌❌ JPOP ⭕⭕⭕⭕
 <br>모션 움직임을 참고해주세요!! 영상에 역동적인 모션 폰트 (일본어로 PV moji)를 넣어볼까요?
@@ -344,12 +351,28 @@
 <br>**실습을 변기🚽🚽에 넣고 내려🪠🪠**
 <br>**실습을 변기🚽🚽에 넣고 내려🪠🪠**
 
+| <a href="https://youtu.be/WB9EpqF08Yg?si=5hRExw59zsy-IbtB"><img src="https://i.ytimg.com/vi/WB9EpqF08Yg/hq720.jpg"></a> |
+| --- |
+| CUTIE STREET - 갑자기 멈출 수 없어요! | 
+| 여러분들이 알 듯한 컵케이크🧁🧁를 가져왔습니다. 0:19초부터 모션 폰트 아이디어를 참고해봐요!! |
+
+| <a href="https://www.youtube.com/watch?v=rIlafJkuStk&list=RDrIlafJkuStk&start_radio=1"><img src="https://i.ytimg.com/vi/rIlafJkuStk/hq720.jpg"></a> |
+| --- |
+| iLiFE! - 만나러 와줘! | 
+| **작성자가 가장 좋아하는 그룹입니다.🍦🍦🍦🍦🍦🍦🍦🍦🍦** |
+
+
 > [!WARNING]
 > **_🤯🤯🤯🤯🤯여기부터는 머리가 터질 수 있는 내용을 다룹니다!!🤯🤯🤯🤯🤯_**
 
 일단 예제를 따라하면서 직접 만들어 볼까요?
 > [!TIP]
 > **_JLPT 2급이상의 일본어 실력이 기반이 있다면 도움이 될 듯 합니다!!🎌⛩️👘_**
-
 [참고](https://youtu.be/zzgWX7kIf34?si=x_5ApXJBLq0KfH70) 텍스트 모션은 5:59부터~
-~~~~~~추후 업데이트 예정
+
+ CG는 외주 맡기는 걸로.......... 시간이 안되네😭😭😱😱
+| <a href="https://www.youtube.com/watch?v=tpFDnOnOdSQ"><img src="https://i.ytimg.com/vi/hhPalbt5Cq8/maxresdefault.jpg"></a> | <a href="https://www.youtube.com/watch?v=dnXc48FLyE4"><img src="https://api.grove.tokyo/wp15/wp-content/uploads/2025/12/madamada-1536x1024.jpg"></a> |
+| --- | --- |
+| M!LK - **폭렬**사랑해| MADAMADA - 응애(바부)하는 Bubble |
+~~~~~~추후 업데이트 예정~~~~~~
+
