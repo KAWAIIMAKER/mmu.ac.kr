@@ -277,50 +277,20 @@
 > **_🤡🤡🤡🤡🤡🤡🤡🤡🤡여기부터는 제작자의 취향이 매우매우 강하게 반영된 내용을 다룹니다!!_**
 
 > [!WARNING]
-> **_🤡🤡🤡🤡🤡🤡🤡🤡🤡여기부터는 제작자의 취향이 매우매우 강하게 반영된 내용을 다룹니다!!_**
-
-> [!WARNING]
-> **_🤡🤡🤡🤡🤡🤡🤡🤡🤡여기부터는 제작자의 취향이 매우매우 강하게 반영된 내용을 다룹니다!!_**
-
-> [!WARNING]
-> **_🤡🤡🤡🤡🤡🤡🤡🤡🤡여기부터는 제작자의 취향이 매우매우 강하게 반영된 내용을 다룹니다!!_**
-
-> [!WARNING]
-> **_🤡🤡🤡🤡🤡🤡🤡🤡🤡여기부터는 제작자의 취향이 매우매우 강하게 반영된 내용을 다룹니다!!_**
-
-> [!WARNING]
-> **_🗾🏯🎌👘⛩️여기부터는 일본 관련 컨텐츠를 다룹니다. 취향이 아니라면 나가주세요!!_**
-
-> [!WARNING]
-> **_🗾🏯🎌👘⛩️여기부터는 일본 관련 컨텐츠를 다룹니다. 취향이 아니라면 나가주세요!!_**
-
-> [!WARNING]
-> **_🗾🏯🎌👘⛩️여기부터는 일본 관련 컨텐츠를 다룹니다. 취향이 아니라면 나가주세요!!_**
-
-> [!WARNING]
-> **_🗾🏯🎌👘⛩️여기부터는 일본 관련 컨텐츠를 다룹니다. 취향이 아니라면 나가주세요!!_**
-
-> [!WARNING]
 > **_🗾🏯🎌👘⛩️여기부터는 일본 관련 컨텐츠를 다룹니다. 취향이 아니라면 나가주세요!!_**
 
 > [!WARNING]
 > **_🐶🐶🐶🐶🐶여기부터는 작성자의 개소리를 다룹니다!!🐶🐶🐶🐶🐶_**
 
 > [!WARNING]
-> **_🐶🐶🐶🐶🐶여기부터는 작성자의 개소리를 다룹니다!!🐶🐶🐶🐶🐶_**
-
-> [!WARNING]
-> **_😇😇😇😇😇여기부터는 머리가 하얘질 수 있는 내용을 다룹니다!!😇😇😇😇😇_**
-
-> [!WARNING]
-> **_😇😇😇😇😇여기부터는 머리가 하얘질 수 있는 내용을 다룹니다!!😇😇😇😇😇_**
-
-> **~~작성자는 일본을 또 가고싶다...~~**
+> **_😇😇😇😇😇여기부터는 머리가 새하얘질 수 있는 내용을 다룹니다!!😇😇😇😇😇_**
 
 <details>
-<summary>절대 누르지 마시오.</summary>
+<summary>낙서장</summary>
+<details>
+<summary>😇😇😇😇😇여기부터는 머리가 새하얘지거나 검어질 수 있는 내용을 다룹니다!!☠️☠️☠️☠️</summary>
 
-| <a href="https://youtu.be/5uMZ_-XTrDE?si=Hvem9n6YGzN0Dn1p"><img src="https://onephony.com/static/images/etawn107rl9eowckz2mtb1l4qti6i7.jpg"></a> |
+| <a href="https://youtu.be/5uMZ_-XTrDE?si=Hvem9n6YGzN0Dn1p"><img src="https://onephony.com/static/images/etawn107rl9eowckz2mtb1l4qti6i7.jpg" width="1600" height="1132" ></a> |
 | --- |
 | Onephony - 태어날 때 부터 백역사 | 
 | 이 영상이 따라하기 쉬울 거 같아 1번에 둡니다.<br>예상반응: 🫠🫠🫠🫠😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😱😱😱😱😇😇😇😇...................... |
@@ -336,15 +306,28 @@
 <br>**실습을 변기🚽🚽에 넣고 내려🪠🪠**
 <br>**실습을 변기🚽🚽에 넣고 내려🪠🪠**
 
-| <a href="https://youtu.be/WB9EpqF08Yg?si=5hRExw59zsy-IbtB"><img src="https://i.ytimg.com/vi/WB9EpqF08Yg/hq720.jpg"></a> |
+| <a href="https://youtu.be/WB9EpqF08Yg?si=5hRExw59zsy-IbtB"><img src="https://i.ytimg.com/vi/WB9EpqF08Yg/hq720.jpg" width="1600" height="900"></a> |
 | --- |
 | CUTIE STREET - 갑자기 멈출 수 없어요! | 
-| 여러분들이 알 듯한 컵케이크🧁🧁를 가져왔습니다. 0:19초부터 모션 폰트 아이디어를 참고해봐요!! |
+| 한국에도 진출한 컵케이크🧁🧁를 가져왔습니다. 0:19초부터 모션 폰트 아이디어를 참고해봐요!! |
 
-| <a href="https://www.youtube.com/watch?v=rIlafJkuStk&list=RDrIlafJkuStk&start_radio=1"><img src="https://i.ytimg.com/vi/rIlafJkuStk/hq720.jpg"></a> |
+| <a href="https://www.youtube.com/watch?v=rIlafJkuStk"><img src="https://i.ytimg.com/vi/rIlafJkuStk/hq720.jpg" width="1600" height="900" ></a> |
 | --- |
 | iLiFE! - 만나러 와줘! | 
 | **작성자가 가장 좋아하는 그룹입니다.🍦🍦🍦🍦🍦🍦🍦🍦🍦** |
+<details>
+<summary>여기서부터는 작성자가 생각하는 띵곡을 다룹니다. 더보기</summary>
+는 개뿔 이 노래들으면 흥얼거리게 되어 중독성에서 빠져나오기 어렵습니다.
+
+| <a href="https://youtu.be/GaFzEWcTRUk?si=Aa6ZUJkHezd6ZzkX"><img src="https://static.wikia.nocookie.net/jpop/images/2/26/KNMK_FK_1.jpg/revision/latest?cb=20201129104028" width="800" height="800"></a> | <a href="https://www.youtube.com/watch?v=617h9-eDE_M&list=RDjjbW2eccAx4&index=29"><img src="https://www.teichiku.co.jp/artist/nanimono/discography/jacket/TECH-45564.jpg" width="800" height="800"></a> | <a href="https://www.youtube.com/watch?v=RGq_Ocw3bF0"><img src="https://i.ytimg.com/vi/RGq_Ocw3bF0/maxresdefault.jpg" width="800" height="450"></a> |
+| --- | --- | --- |
+| 너에게, 심쿵. - 연애결괴(무너짐)경보 | NANIMONO - 큐트 어그레션! | 드레스코드 - 반짝큐어퓨어(KIRA CURE PURE) |
+| <a href="https://www.youtube.com/watch?v=e4QiDE9_bvc"><img src="https://pbs.twimg.com/media/G7Px_e9a0AExHiw?format=jpg&name=900x900" width="800" height="540"></a> |||
+|Pastel Closet - 오니 KawaWe (오니는 일본의 귀신, かわいい + We)|||
+
+TMI로 작성자가 실제로 현장에서 들은 노래만 정리하였습니다.
+</details>
+</details>
 </details>
 
 > [!WARNING]
@@ -353,7 +336,8 @@
 일단 예제를 따라하면서 직접 만들어 볼까요?
 > [!TIP]
 > **_JLPT 2급이상의 일본어 실력이 기반이 있다면 도움이 될 듯 합니다!!🎌⛩️👘_**
-[참고](https://youtu.be/zzgWX7kIf34?si=x_5ApXJBLq0KfH70) 텍스트 모션은 5:59부터~
+
+[참고](https://youtu.be/zzgWX7kIf34?si=x_5ApXJBLq0KfH70)자료는 여기에. 텍스트 모션은 5:59부터~
 
  CG는 외주 맡기는 걸로.......... 시간이 안되네😭😭😱😱
  <details>
