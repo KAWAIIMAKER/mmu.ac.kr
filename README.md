@@ -12,7 +12,7 @@
 > 74기, 그 이후 후배님들을 위해 만든 자료입니다.
 
 > [!NOTE]
-> 국립목포해양대학교 홍보대사 바다세미의 후배님들을 위한 영상 편집법에 대한 자료입니다. 모르는 점이나 질문은 922swj@gmail.com으로 연락주세요!
+> 국립목포해양대학교 홍보대사 바다세미의 후배님들을 위한 영상 편집법에 대한 자료입니다. 모르는 점이나 질문은 [비됴클래스 유튜브 참고](https://www.youtube.com/@video_class) 또는 922swj@gmail.com으로 연락주세요!
 
 # 01. Setting
 **영상 제작 전 `영상 화질`, `초당 프레임 수(FPS)`, `색상 영역`을 설정해 볼까요??!!😇**
@@ -249,9 +249,10 @@
 > [!WARNING]
 > **_여기부터는 제작자의 취향이 반영된 내용을 다룹니다!!_**
 
-| <a href="https://www.youtube.com/watch?v=tpFDnOnOdSQ"><img src="https://img.youtube.com/vi/JRxsWaLGqOw/maxresdefault.jpg"></a> |
+| <a href="https://youtu.be/JRxsWaLGqOw?si=cw69hTkGbyRMEoQ8"><img src="https://img.youtube.com/vi/JRxsWaLGqOw/maxresdefault.jpg"></a> |
 | --- |
 | **2026/6/25** 여러분 저 됐어요 좋됐어요!!! MEBS 기술부장에게 먹히겠어요!!!!!! 아래 영상들을 참고해서 참신한 영상들을 만들어봐요!! |
+| 사용된 효과들에 대해서 분석해보자.<br>0:07-1:24 비됴클래스 - 아이폰 7 광고 에프터 이펙트 템플릿 제공 #52 인용한 듯 [출처](https://www.youtube.com/watch?v=cFpWicUiN7M)<br>1:25-1:38 ~~지도관 샤갈~~~.... PTSD 오네~~ 미리캔버스 - 넷플릭스 템플릿 인용한 듯 [출처](https://m.blog.naver.com/kthilli1022/223567764854)<br>1:39-아웃트로 전까지 간단한 슬라이드쇼형식. 청춘 주제의 BGM 사용 <br>극후반부: 배경의 불투명도가 올라가며 마무리|
 
 > [!WARNING]
 > **_🤡🤡🤡🤡🤡🤡🤡🤡🤡여기부터는 제작자의 취향이 매우매우 강하게 반영된 내용을 다룹니다!!_**
@@ -292,13 +293,13 @@
 
 | <a href="https://www.youtube.com/watch?v=tpFDnOnOdSQ"><img src="https://i.ytimg.com/vi/hhPalbt5Cq8/maxresdefault.jpg"></a> | <a href="https://www.youtube.com/watch?v=dnXc48FLyE4"><img src="https://api.grove.tokyo/wp15/wp-content/uploads/2025/12/madamada-1536x1024.jpg"></a> |
 | --- | --- |
-| M!LK - **폭렬**사랑해| MADAMADA - 바부하는 Bubble |
+| M!LK - **폭렬**사랑해| MADAMADA - 응애(바부)하는 Bubble |
 
 
 | <a href="https://youtu.be/5uMZ_-XTrDE?si=Hvem9n6YGzN0Dn1p"><img src="https://onephony.com/static/images/etawn107rl9eowckz2mtb1l4qti6i7.jpg"></a> |
 | --- |
 | Onephony - 태어날 때 부터 백역사 | 
-| 예상반응: 🫠🫠🫠🫠😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😭😭😭😭😩😩😩😩😱😱😱😱😇😇😇😇......................|
+| 예상반응: 🫠🫠🫠🫠😶‍🌫️😶‍🌫️😶‍🌫️😶‍🌫️😱😱😱😱😇😇😇😇......................|
 
 지뢰계 ❌❌❌❌ FOR ADULT ❌❌❌❌ JPOP 🙆🙆🙆🙆
 
