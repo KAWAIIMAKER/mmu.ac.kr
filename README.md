@@ -321,7 +321,7 @@
 
 | <a href="https://youtu.be/GaFzEWcTRUk?si=Aa6ZUJkHezd6ZzkX"><img src="https://static.wikia.nocookie.net/jpop/images/2/26/KNMK_FK_1.jpg/revision/latest?cb=20201129104028" width="800" height="800"></a> | <a href="https://www.youtube.com/watch?v=617h9-eDE_M&list=RDjjbW2eccAx4&index=29"><img src="https://www.teichiku.co.jp/artist/nanimono/discography/jacket/TECH-45564.jpg" width="800" height="800"></a> | <a href="https://www.youtube.com/watch?v=RGq_Ocw3bF0"><img src="https://i.ytimg.com/vi/RGq_Ocw3bF0/maxresdefault.jpg" width="800" height="450"></a> |
 | --- | --- | --- |
-| 너에게, 심쿵. - 연애결괴(무너짐)경보 | NANIMONO - 큐트 어그레션! | 드레스코드 - 반짝큐어퓨어(KIRA CURE PURE) |
+| 키미니, 무네큥. (너에게, 심쿵.) - 연애결괴경보 | NANIMONO - 큐트 어그레션! | 드레스코드 - 반짝큐어퓨어(KIRA CURE PURE) |
 | <a href="https://www.youtube.com/watch?v=e4QiDE9_bvc"><img src="https://pbs.twimg.com/media/G7Px_e9a0AExHiw?format=jpg&name=900x900" width="800" height="540"></a> |||
 |Pastel Closet - 오니 KawaWe (오니는 일본의 귀신, かわいい + We)|||
 
