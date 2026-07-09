@@ -2,14 +2,14 @@
 <a href="https://youtu.be/6iNZDgXKVIs?si=W9imztBIHj7Uslrb"><img src="https://postfiles.pstatic.net/MjAyMDEyMDVfMjc4/MDAxNjA3MTU3NTUxMjMw.ZElT2N_t4K2wwF0tpKE5gBGw-5-U-urhjiug_xQBfCMg.76Rb6cZgDd5RHobBFr8XNXQ2banGleMcrLxMY4LF7g4g.PNG.badasemi/%EB%B0%94%EB%8B%A4%EC%84%B8%EB%AF%B8_%EC%8B%9C%EC%9E%91_%EB%B0%B0%EB%84%88.png?type=w773"></a>
 
 </n>(영문판: https://github.com/KAWAIIMAKER/kawaiimaker)
-> **Ver 260628.01**
+> **Ver 260710.01**
 > 
-> **Made by @wjs9.22 / ㅎㅈ 72기**
+> **Made by @wjs9.22 / 항해정보시스템학부 72기**
 > 
 > 하트 표시한 것이나 강조표시한 것들이 추천세팅 입니다.
 > Adobe Premiere Pro 및 CAPCUT 기준으로 작성되었습니다.
 > 
-> 74기, 그 이후 후배님들을 위해 만든 자료입니다.
+> 73기, 그 이후 후배님들을 위해 만든 자료입니다.
 
 > [!NOTE]
 > 국립목포해양대학교 홍보대사 바다세미의 후배님들을 위한 영상 편집법에 대한 자료입니다. 모르는 점이나 질문은 [비됴클래스 유튜브 참고](https://www.youtube.com/@video_class) 또는 922swj@gmail.com으로 연락주세요!
@@ -194,7 +194,7 @@
 
 일반적으로 영상 편집에 필수적인 요소이지만, 처음에는 어떻게 시작하고 얻어야 할지 멘탈의 문제가 생기게 될 거에요🫠
 
-영상 편집 초보자들을 위해 제가 2019년부터 지금까지 모아온 FX 정리 드라이브 링크를 공유하겠습니다.
+영상 편집 초보자들을 위해 제가 2019년부터 지금까지 모아온 FX 정리 드라이브 링크를 공유하겠습니다. (* 2026년 7월 9일 업데이트 완료)
 
 - [GDrive (@mmu_badasemi 전용)](https://drive.google.com/drive/folders/1hYij15dUIne6kz8dYn7V4KYMO1YjThe_?usp=drive_link)
 - [크로마키 밈 모음 사이트](https://greenscreenmemes.com/)
@@ -281,7 +281,9 @@
 > [!TIP]
 > **_JLPT 2급이상의 일본어 실력이 기반이 있다면 도움이 될 듯 합니다!!🎌⛩️👘_**
 
-[참고2](https://youtu.be/zzgWX7kIf34?si=x_5ApXJBLq0KfH70)자료는 여기에. 텍스트 모션은 5:59부터~
+[참고2](https://youtu.be/zzgWX7kIf34?si=x_5ApXJBLq0KfH70) 자료는 여기에. 텍스트 모션은 5:59부터~
+<br>[참고3](https://zuariya.com/%E3%80%902023%E6%9C%80%E6%96%B0%E3%80%91%E7%9C%9F%E4%BC%BC%E3%81%99%E3%82%8B%E3%81%A0%E3%81%91%EF%BC%81%E6%96%87%E5%AD%97pv%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B913%E9%81%B8%EF%BC%81%E3%82%AA%E3%82%B9/) 한 마디로 요약, 꿀통🍯🍯🍯
+<br>최대한 제가 만들어보려고 노력 해볼게요!! 관심있다면 시도해 보시길...
 
  CG는 외주 맡기는 걸로.......... 시간이 안되네😭😭😱😱
 
@@ -307,6 +309,8 @@
 <summary>낙서장</summary>
 <details>
 <summary>😇😇😇😇😇여기부터는 머리가 새하얘지거나 검어질 수 있는 내용을 다룹니다!!☠️☠️☠️☠️</summary>
+<details>
+<summary>후회 안하시죠?</summary>
 
 | <a href="https://youtu.be/5uMZ_-XTrDE?si=Hvem9n6YGzN0Dn1p"><img src="https://onephony.com/static/images/etawn107rl9eowckz2mtb1l4qti6i7.jpg" width="1600" height="1132" ></a> |
 | --- |
@@ -315,6 +319,7 @@
 | **사용된 효과들에 대해서 분석해보자.**<br>0:06 배경과 인물 사이에 로고 넣기 (인물 레이어를 하나 더 복제한 후 그 사이에 로고를 넣는다.)<br>0:11 자연스럽게 크기가 줄어드면서 타이핑 형식으로 등장<br>0:19 자간을 자연스럽게 좁히면서 (가,감속 프레임)<br>0:22 자가을 위 아래로 좁히며, 좌우로 퇴장<br>0:25 흔들리며 병풍처럼 배치, 반투명도 교차로 자연스러운 트렌지션<br>0:28 아래 자료 참고; 동그라미 형식으로 한 번 튕긴 후 등장<br>이후에는 효과 반복사용 |
 
 지뢰계 ❌❌❌❌ FOR ADULT ❌❌❌❌ JPOP ⭕⭕⭕⭕
+<br> **~모션 그래픽에 입문했더니 아이돌은 먼저 보게되네요~**
 <br>모션 움직임을 참고해주세요!! 영상에 역동적인 모션 폰트 (일본어로 PV moji)를 넣어볼까요?
 <br>그러면 After Effects 인수인계도 해야하는데 샤갈~~~~~~~~~~~~~~~~~~~~~~~🫠🫠🫠🫠🫠🫠🫠🫠🫠
 <br>에펙 자료쓰려면 수십장은 나오는데 실습 다녀와서 업데이트 하는 걸로......
@@ -344,6 +349,7 @@
 |Pastel Closet - 오니 KawaWe (오니는 일본의 귀신, かわいい + We)|||
 
 TMI로 작성자가 실제로 현장에서 들은 노래만 정리하였습니다.
+</details>
 </details>
 </details>
 </details>
