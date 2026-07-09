@@ -5,7 +5,7 @@
 > **Ver 260710.01**
 > 
 > **Made by @wjs9.22 / 항해정보시스템학부 72기**
-><br><img src="https://github.com/user-attachments/assets/5394fcea-4696-420e-92fd-1667093d50fa"  width="150" height="200">
+><br><img src="https://github.com/user-attachments/assets/431ade50-5a2c-49dc-82b1-431b51c38a32"  width="150" height="200">
 > 
 > 하트 표시한 것이나 강조표시한 것들이 추천세팅 입니다.
 > Adobe Premiere Pro 및 CAPCUT 기준으로 작성되었습니다.
