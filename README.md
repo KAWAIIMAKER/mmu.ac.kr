@@ -2,7 +2,7 @@
 <a href="https://youtu.be/6iNZDgXKVIs?si=W9imztBIHj7Uslrb"><img src="https://postfiles.pstatic.net/MjAyMDEyMDVfMjc4/MDAxNjA3MTU3NTUxMjMw.ZElT2N_t4K2wwF0tpKE5gBGw-5-U-urhjiug_xQBfCMg.76Rb6cZgDd5RHobBFr8XNXQ2banGleMcrLxMY4LF7g4g.PNG.badasemi/%EB%B0%94%EB%8B%A4%EC%84%B8%EB%AF%B8_%EC%8B%9C%EC%9E%91_%EB%B0%B0%EB%84%88.png?type=w773"></a>
 
 </n>(영문판: https://github.com/KAWAIIMAKER/kawaiimaker)
-> **Ver 260710.01**
+> **Ver 260710.02**
 > 
 > **Made by @wjs9.22 / 항해정보시스템학부 72기**
 ><br><img src="https://github.com/user-attachments/assets/431ade50-5a2c-49dc-82b1-431b51c38a32"  width="150" height="200">
@@ -346,8 +346,14 @@
 | <a href="https://youtu.be/GaFzEWcTRUk?si=Aa6ZUJkHezd6ZzkX"><img src="https://static.wikia.nocookie.net/jpop/images/2/26/KNMK_FK_1.jpg/revision/latest?cb=20201129104028" width="800" height="800"></a> | <a href="https://www.youtube.com/watch?v=617h9-eDE_M&list=RDjjbW2eccAx4&index=29"><img src="https://www.teichiku.co.jp/artist/nanimono/discography/jacket/TECH-45564.jpg" width="800" height="800"></a> | <a href="https://www.youtube.com/watch?v=RGq_Ocw3bF0"><img src="https://i.ytimg.com/vi/RGq_Ocw3bF0/maxresdefault.jpg" width="800" height="450"></a> |
 | --- | --- | --- |
 | 키미니, 무네큥. (너에게, 심쿵.) - 연애결괴경보 | NANIMONO - 큐트 어그레션! | 드레스코드 - 반짝큐어퓨어(KIRA CURE PURE) |
-| <a href="https://www.youtube.com/watch?v=e4QiDE9_bvc"><img src="https://pbs.twimg.com/media/G7Px_e9a0AExHiw?format=jpg&name=900x900" width="800" height="540"></a> |||
-|Pastel Closet - 오니 KawaWe (오니는 일본의 귀신, かわいい + We)|||
+| <a href="https://www.youtube.com/watch?v=e4QiDE9_bvc"><img src="https://pbs.twimg.com/media/G7Px_e9a0AExHiw?format=jpg&name=900x900" width="800" height="540"></a> | <a href="https://www.youtube.com/watch?v=2T7N970KS8E"><img src="https://i.ytimg.com/vi/2T7N970KS8E/maxresdefault.jpg" width="800" height="450"></a> |<a href="https://youtu.be/7HTduQEJpNE?si=WeUG6_RZw5Gf5YHF"><img src="https://i.ytimg.com/vi/a-F6kP71dk0/maxresdefault.jpg" width="800" height="450"></a>|
+|Pastel Closet - 오니 KawaWe (오니는 일본의 귀신, かわいい + We)|iON! - 바치모리나!!! (딱 잘 나온 샷!!!)|CUTIE STREET『でぃすこみゅーたんと！』|
+|<a href="https://www.youtube.com/watch?v=28HBkyA56Cw"><img src="https://i.ytimg.com/vi/28HBkyA56Cw/maxresdefault.jpg" width="800" height="450"></a>|<a href="https://www.youtube.com/watch?v=F3P8vcZkIh4"><img src="https://m.media-amazon.com/images/I/81rARJBh4EL.jpg" width="800" height="800"></a>|<a href="https://youtu.be/4FOSHKro21k?si=GpusJKR7ojDOfvtr"><img src="https://i.ytimg.com/vi/4FOSHKro21k/maxresdefault.jpg" width="800" height="450"></a>|
+|큐루링테시테미테 - LOVEKYUN ♡ WANTED|=LOVE - 특별한 츄, 해줘|iLiFE! - きゃわぽっぴんどぅー|
+|<a href="https://youtu.be/Z_NM8xY5LmA?si=m8SoWQSlooXzCD7y"><img src="https://i.ytimg.com/vi/Z_NM8xY5LmA/maxresdefault.jpg" width="800" height="450"></a>|<a href="https://youtu.be/xDmdf1tU9SM?si=cV6Wd_WrljWM7jxY"><img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6d/d4/7f/6dd47f5e-4c2a-11a0-5434-0c18e119f349/3617222488683_cover.jpg/600x600bf-60.jpg" width="800" height="800"></a>|<a href="https://youtu.be/0-S9di6Sh1I?si=G4IgoBVpKcSsbM5u"><img src="https://i.ytimg.com/vi/0-S9di6Sh1I/maxresdefault.jpg" width="800" height="450"></a>|
+|Pretty Chuu - 잘 나온 나, 최고자나!|逆転ねこぱんちっ！ - 무적 AREA|iCOL - 파라리라댄스|
+|<a href="https://www.youtube.com/watch?v=ClslHCUXMXo"><img src="https://i.ytimg.com/vi/ZQsInKJdHJ8/maxresdefault.jpg" width="800" height="450"></a>|<a href="https://youtu.be/BXSn2jaRK6Q?si=gemBEClZAHRXnu6C"><img src="https://emmary.jp/wp-content/uploads/2021/11/DCB462AF-F1D9-413F-AEC5-9D5472682A82.jpeg" width="800" height="450"></a>|<a href="https://youtu.be/bs2p6FpG4Is?si=exNzcFx8pOcebkW7"><img src="https://jamscollection.jp/topics/images/x2p7bzz56qg6f9np8k8iaj3mflpguu.jpg" width="800" height="450"></a>|
+|Pixel Ribbon - 너무좋아 테스트|シンデレラ宣言！ - 신데렐라 선언!|Jams Collection(쟈무즈) - 신데렐라 마인드|
 
 TMI로 작성자가 실제로 현장에서 들은 노래만 정리하였습니다.
 </details>
