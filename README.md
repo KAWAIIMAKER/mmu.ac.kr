@@ -358,6 +358,7 @@
 TMI로 작성자가 실제로 현장에서 들은 노래만 정리하였습니다. 
 <br>즉, 일본 현지나 내한공연에서 직접 보고 들은 노래만 모았습니다.
 <br>이건 5%조차도 안되니 자세한건 위 연락처로 문의주시길...
+<br>[제작자의 😎😎😎😎 취향 Playlist](https://music.apple.com/kr/playlist/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB/pl.u-9N9L2a4t19yyW9X)
 </details>
 </details>
 </details>
