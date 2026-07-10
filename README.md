@@ -352,8 +352,8 @@
 |큐루링테시테미테 - LOVEKYUN ♡ WANTED|=LOVE - 특별한 츄, 해줘|iLiFE! - きゃわぽっぴんどぅー|
 |<a href="https://youtu.be/Z_NM8xY5LmA?si=m8SoWQSlooXzCD7y"><img src="https://i.ytimg.com/vi/Z_NM8xY5LmA/maxresdefault.jpg" width="800" height="450"></a>|<a href="https://youtu.be/xDmdf1tU9SM?si=cV6Wd_WrljWM7jxY"><img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6d/d4/7f/6dd47f5e-4c2a-11a0-5434-0c18e119f349/3617222488683_cover.jpg/600x600bf-60.jpg" width="800" height="800"></a>|<a href="https://youtu.be/0-S9di6Sh1I?si=G4IgoBVpKcSsbM5u"><img src="https://i.ytimg.com/vi/0-S9di6Sh1I/maxresdefault.jpg" width="800" height="450"></a>|
 |Pretty Chuu - 잘 나온 나, 최고자나!|逆転ねこぱんちっ！ - 무적 AREA|iCOL - 파라리라댄스|
-|<a href="https://www.youtube.com/watch?v=ClslHCUXMXo"><img src="https://i.ytimg.com/vi/ZQsInKJdHJ8/maxresdefault.jpg" width="800" height="450"></a>|<a href="https://youtu.be/BXSn2jaRK6Q?si=gemBEClZAHRXnu6C"><img src="https://emmary.jp/wp-content/uploads/2021/11/DCB462AF-F1D9-413F-AEC5-9D5472682A82.jpeg" width="800" height="450"></a>|<a href="https://youtu.be/bs2p6FpG4Is?si=exNzcFx8pOcebkW7"><img src="https://jamscollection.jp/topics/images/x2p7bzz56qg6f9np8k8iaj3mflpguu.jpg" width="800" height="450"></a>|
-|Pixel Ribbon - 다이스키(의역:좋아함) 테스트|シンデレラ宣言！ - 신데렐라 선언!|Jams Collection(쟈무즈) - 신데렐라 마인드|
+|<a href="https://www.youtube.com/watch?v=ClslHCUXMXo"><img src="https://i.ytimg.com/vi/ZQsInKJdHJ8/maxresdefault.jpg" width="800" height="450"></a>|<a href="https://youtu.be/kz3mheKLVI4?si=h7ExbEiV4jLdUt2X&t=487"><img src="https://emmary.jp/wp-content/uploads/2021/11/DCB462AF-F1D9-413F-AEC5-9D5472682A82.jpeg" width="800" height="450"></a>|<a href="https://youtu.be/bs2p6FpG4Is?si=exNzcFx8pOcebkW7"><img src="https://jamscollection.jp/topics/images/x2p7bzz56qg6f9np8k8iaj3mflpguu.jpg" width="800" height="450"></a>|
+|Pixel Ribbon - 다이스키(의역:좋아함) 테스트|シンデレラ宣言！ - 슈키피(의역: 최애) 선언!|Jams Collection(쟈무즈) - 신데렐라 마인드|
 
 TMI로 작성자가 실제로 현장에서 들은 노래만 정리하였습니다. 
 <br>즉, 일본 현지나 내한공연에서 직접 보고 들은 노래만 모았습니다.
