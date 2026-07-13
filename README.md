@@ -358,12 +358,13 @@
 |<a href="https://www.youtube.com/watch?v=ClslHCUXMXo"><img src="https://i.ytimg.com/vi/ZQsInKJdHJ8/maxresdefault.jpg" width="800" height="450"></a>|<a href="https://youtu.be/kz3mheKLVI4?si=h7ExbEiV4jLdUt2X&t=487"><img src="https://emmary.jp/wp-content/uploads/2021/11/DCB462AF-F1D9-413F-AEC5-9D5472682A82.jpeg" width="800" height="450"></a>|<a href="https://youtu.be/bs2p6FpG4Is?si=exNzcFx8pOcebkW7"><img src="https://jamscollection.jp/topics/images/x2p7bzz56qg6f9np8k8iaj3mflpguu.jpg" width="800" height="450"></a>|
 |Pixel Ribbon - 다이스키(의역:좋아함) 테스트|シンデレラ宣言！ - 슈키피(의역: 최애) 선언!|Jams Collection(쟈무즈) - 신데렐라 마인드|
 
-TMI로 작성자가 실제로 현장~現場,겐바~에서 들은 노래만 정리하였습니다. 
-<br>즉, 일본 현지나 내한공연에서 직접 보고 들은 노래만 모았습니다.
+TMI로 작성자가 실제로 현장~現場,겐바~에서 본 팀만 정리하였습니다. 
+<br>즉, 일본 현지나 내한공연에서 직접 보고 들은 팀만 모았습니다. (곡은 인기 신곡으로 업데이트 한 것도 있음.)
 <br>이건 5%조차도 안되니 자세한건 위 연락처로 문의주시길...
 <br>이 글까지 발견하셨다는 것은 제 플리를 볼 자격이 있으신 분이네요😎
 <br>[제작자의 😎😎😎😎 취향 Playlist](https://music.apple.com/kr/playlist/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB/pl.u-9N9L2a4t19yyW9X)
 <br> <a href="https://youtu.be/W6IwMNyzQkw?si=hfTVYkX_tR3X0fOh&t=214"><img src="https://github.com/user-attachments/assets/8aa68a56-78e2-417d-adba-0aebb8c44db2" width="800" height="450"></a>
+<br>[일본 아이돌 순위는 こちら](https://liveidol.blog/groups/)
 
 </details>
 </details>
