@@ -363,6 +363,10 @@
 |<a href="https://www.youtube.com/watch?v=ClslHCUXMXo"><img src="https://i.ytimg.com/vi/ZQsInKJdHJ8/maxresdefault.jpg" width="800" height="450"></a>|<a href="https://youtu.be/kz3mheKLVI4?si=h7ExbEiV4jLdUt2X&t=487"><img src="https://emmary.jp/wp-content/uploads/2021/11/DCB462AF-F1D9-413F-AEC5-9D5472682A82.jpeg" width="800" height="450"></a>|<a href="https://youtu.be/bs2p6FpG4Is?si=exNzcFx8pOcebkW7"><img src="https://jamscollection.jp/topics/images/x2p7bzz56qg6f9np8k8iaj3mflpguu.jpg" width="800" height="450"></a>|
 |Pixel Ribbon - 다이스키(의역:좋아함) 테스트|シンデレラ宣言！ - 슈키피(의역: 최애) 선언!|Jams Collection(쟈무즈) - 신데렐라 마인드|
 
+|<a href="https://www.youtube.com/watch?v=wNzqazRETEY&list=RDwNzqazRETEY&start_radio=1"><img src="https://i.ytimg.com/vi/wNzqazRETEY/hq720.jpg" width="800" height="450">|
+|---|
+| 👑KIMINI, MUNEKYUN. - 경솔한 아이라뷰 |
+
 TMI로 작성자가 실제로 현장~現場,겐바~에서 본 팀만 정리하였습니다. 
 <br>즉, 일본 현지나 내한공연에서 직접 보고 들은 팀만 모았습니다. (곡은 인기 신곡으로 업데이트 한 것도 있음.)
 <br>이건 5%조차도 안되니 자세한건 위 연락처로 문의주시길...
