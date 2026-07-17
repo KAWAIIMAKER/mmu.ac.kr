@@ -380,7 +380,7 @@
 |<a href="https://www.youtube.com/watch?v=ClslHCUXMXo"><img src="https://i.ytimg.com/vi/ZQsInKJdHJ8/maxresdefault.jpg" width="800" height="450"></a>|<a href="https://youtu.be/kz3mheKLVI4?si=h7ExbEiV4jLdUt2X&t=487"><img src="https://i.ytimg.com/vi/QoHhsY1f1CU/maxresdefault.jpg" width="800" height="450"></a>|<a href="https://youtu.be/bs2p6FpG4Is?si=exNzcFx8pOcebkW7"><img src="https://jamscollection.jp/topics/images/x2p7bzz56qg6f9np8k8iaj3mflpguu.jpg" width="800" height="450"></a>|
 |Pixel Ribbon - 다이스키(의역:좋아함) 테스트|シンデレラ宣言！ - 슈키피(의역: 최애) 선언!|Jams Collection(쟈무즈) - 신데렐라 마인드|
 |<a href="https://youtu.be/6iNZDgXKVIs?si=7oJeZvbIHErV_A-U"><img src="https://i.ytimg.com/vi/6iNZDgXKVIs/maxresdefault.jpg" width="800" height="450">|<a href="https://youtu.be/KNHkMHBhmtA?si=WqDrIu1AElhQnCTa"><img src="https://i.ytimg.com/vi/KNHkMHBhmtA/hq720.jpg" width="800" height="450">|<a href="https://youtu.be/9bZkp7q19f0?si=7GDBxw0XsYjmMa25"><img src="https://i.ytimg.com/vi/9bZkp7q19f0/hq720.jpg" width="800" height="450">|
-| CURE'T - Angelic Duty♡ | ~대충 일본어를 공부해야하는 이유입니다. (출처: 이슬영웅)~ | サイ - 江南スタイル |
+| CURE'T - Angelic Duty♡ | ~대충 일본어를 공부해야하는 이유입니다. (출처: 이슬영웅)~ 샤갈~ ~해사대 3학년은 개인적인 해외여행 안된다고~~~~ | サイ - 江南スタイル |
 
 |<a href="https://www.youtube.com/watch?v=wNzqazRETEY&list=RDwNzqazRETEY&start_radio=1"><img src="https://i.ytimg.com/vi/wNzqazRETEY/hq720.jpg" width="800" height="450">|
 |---|
