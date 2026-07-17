@@ -379,7 +379,7 @@
 
 |<a href="https://www.youtube.com/watch?v=wNzqazRETEY&list=RDwNzqazRETEY&start_radio=1"><img src="https://i.ytimg.com/vi/wNzqazRETEY/hq720.jpg" width="800" height="450">|
 |---|
-| 👑KIMINI, MUNEKYUN. - 경솔한 아이라뷰 |
+| 👑KIMINI, MUNEKYUN. - 경솔한 아이라뷰 <br>~내가 4학년 되면 수업 쨰고 키미큥 써머 페스는 꼭 간다~ |
 
 > **_TMI: 😇😇😇😇😇작성자는 인생의 총 1n번의 일본여행을 바탕으로 한 ~일본 아이돌 공연, 메이드카페 SSIP 고인물~ 초보입니다! ~심지어 국제항해에서 동기들을 끌고 메이드 카페를.. 읍읍읍ㅂㅂㅂㅂㅂㅂ~😇😇😇😇😇_**
 
