@@ -373,24 +373,27 @@
 <details>
 <summary>여기서부터는 작성자가 생각하는 띵곡을 다룹니다. 더보기</summary>
 는 개뿔 이 노래들으면 흥얼거리게 되어 중독성에서 빠져나오기 어렵습니다.
+<br>*참고: 도쿄 이외 거점은 아티스트명 뒤에 [] 형식으로 거점을 표기하였습니다.
 
 | <a href="https://youtu.be/GaFzEWcTRUk?si=3tbRJFaJh8YapaqS&t=106"><img src="https://static.wikia.nocookie.net/jpop/images/2/26/KNMK_FK_1.jpg/revision/latest?cb=20201129104028" width="800" height="800"></a> | <a href="https://www.youtube.com/watch?v=617h9-eDE_M&list=RDjjbW2eccAx4&index=29"><img src="https://www.teichiku.co.jp/artist/nanimono/discography/jacket/TECH-45564.jpg" width="800" height="800"></a> | <a href="https://www.youtube.com/watch?v=RGq_Ocw3bF0"><img src="https://i.ytimg.com/vi/RGq_Ocw3bF0/maxresdefault.jpg" width="800" height="450"></a> |
 | --- | --- | --- |
-| KIMINI, MUNEKUYN. - 연애결괴경보<details><summary>명대사 보기</summary>四葉あみ - 恋愛確率は100%です！ / (요츠바 아미 - 연애확률은 100%예요!)</details> | NANIMONO - 큐트 어그레션! <details><summary>명대사 보기</summary>많이많이많이요 x3 사랑해주세요...</details> | DressCode - 반짝큐어퓨어(KIRA CURE PURE) |
+| KIMINI, MUNEKUYN. [NAGOYA] - 연애결괴경보<details><summary>명대사 보기</summary>四葉あみ - 恋愛確率は100%です！ / (요츠바 아미 - 연애확률은 100%예요!)</details> | NANIMONO - 큐트 어그레션! <details><summary>명대사 보기</summary>많이많이많이요 x3 사랑해주세요...</details> | DressCode - 반짝큐어퓨어(KIRA CURE PURE) |
 | <a href="https://www.youtube.com/watch?v=e4QiDE9_bvc"><img src="https://pbs.twimg.com/media/G7Px_e9a0AExHiw?format=jpg&name=900x900" width="800" height="540"></a> | <a href="https://www.youtube.com/watch?v=2T7N970KS8E"><img src="https://i.ytimg.com/vi/2T7N970KS8E/maxresdefault.jpg" width="800" height="450"></a> |<a href="https://youtu.be/7HTduQEJpNE?si=WeUG6_RZw5Gf5YHF"><img src="https://i.ytimg.com/vi/a-F6kP71dk0/maxresdefault.jpg" width="800" height="450"></a>|
 |Pastel Closet - Oni KawaWe<details><summary>의미 보기</summary>Oni(鬼)는 일본의 귀신, Kawawe는 kawaii(可愛い,귀엽다) + We의 합성어</details>|iON! - Bachimorina!!! <details><summary>의역 보기</summary>완벽한 인생샷!</details>|CUTIE STREET - Discommutant!|
 |<a href="https://www.youtube.com/watch?v=28HBkyA56Cw"><img src="https://i.ytimg.com/vi/28HBkyA56Cw/maxresdefault.jpg" width="800" height="450"></a>|<a href="https://www.youtube.com/watch?v=F3P8vcZkIh4"><img src="https://m.media-amazon.com/images/I/81rARJBh4EL.jpg" width="800" height="800"></a>|<a href="https://youtu.be/4FOSHKro21k?si=GpusJKR7ojDOfvtr"><img src="https://i.ytimg.com/vi/4FOSHKro21k/maxresdefault.jpg" width="800" height="450"></a>|
 |Kyururinteshitemite - LOVEKYUN ♡ WANTED|=LOVE - 특별한 츄, 해줘|iLiFE! - きゃわぽっぴんどぅー|
 |<a href="https://youtu.be/Z_NM8xY5LmA?si=m8SoWQSlooXzCD7y"><img src="https://i.ytimg.com/vi/Z_NM8xY5LmA/maxresdefault.jpg" width="800" height="450"></a>|<a href="https://youtu.be/xDmdf1tU9SM?si=cV6Wd_WrljWM7jxY"><img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6d/d4/7f/6dd47f5e-4c2a-11a0-5434-0c18e119f349/3617222488683_cover.jpg/600x600bf-60.jpg" width="800" height="800"></a>|<a href="https://youtu.be/0-S9di6Sh1I?si=G4IgoBVpKcSsbM5u"><img src="https://i.ytimg.com/vi/0-S9di6Sh1I/maxresdefault.jpg" width="800" height="450"></a>|
-|Pretty Chuu - 잘 나온 나, 최강이자나!|Gyakuten neko panch! - 무적 AREA|i-COL - 파라리라댄스|
+|Pretty Chuu - 잘 나온 나, 최강이자나!|Gyakuten neko panch! [NAGOYA] - 무적 AREA|i-COL - 파라리라댄스|
 |<a href="https://www.youtube.com/watch?v=ClslHCUXMXo"><img src="https://i.ytimg.com/vi/ZQsInKJdHJ8/maxresdefault.jpg" width="800" height="450"></a>|<a href="https://youtu.be/kz3mheKLVI4?si=h7ExbEiV4jLdUt2X&t=487"><img src="https://i.ytimg.com/vi/QoHhsY1f1CU/maxresdefault.jpg" width="800" height="450"></a>|<a href="https://youtu.be/bs2p6FpG4Is?si=exNzcFx8pOcebkW7"><img src="https://jamscollection.jp/topics/images/x2p7bzz56qg6f9np8k8iaj3mflpguu.jpg" width="800" height="450"></a>|
 |Pixel Ribbon - 다이스키(의역:좋아함) 테스트|シンデレラ宣言！ - 슈키피(의역: 최애) 선언!|Jams Collection(쟈무즈) - 신데렐라 마인드|
 |<a href="https://youtu.be/6iNZDgXKVIs?si=7oJeZvbIHErV_A-U"><img src="https://i.ytimg.com/vi/6iNZDgXKVIs/maxresdefault.jpg" width="800" height="450">|<a href="https://youtu.be/KNHkMHBhmtA?si=WqDrIu1AElhQnCTa"><img src="https://i.ytimg.com/vi/KNHkMHBhmtA/hq720.jpg" width="800" height="450">|<a href="https://www.youtube.com/watch?v=xMuhW0CCrP0"><img src="https://i.ytimg.com/vi/xMuhW0CCrP0/sddefault.jpg" width="800" height="450">|
-| CURE'T - Angelic Duty♡ | ~대충 일본어를 공부해야하는 이유입니다. (출처: 이슬영웅)~ 샤갈 ~해사대 3학년은 개인적인 해외여행 안된다고~ | CANDY TUNE -『倍倍FIGHT!』 |
+| CURE'T - Angelic Duty♡ | ~대충 일본어를 공부해야하는 이유입니다. (출처: 이슬영웅 [KOREA])~ 샤갈 ~해사대 3학년은 개인적인 해외여행 안된다고~ | CANDY TUNE -『倍倍FIGHT!』 |
+|<a href="https://www.youtube.com/watch?v=ftEXe1-eJsQ"><img src="https://i.ytimg.com/vi/ftEXe1-eJsQ/maxresdefault.jpg" width="800" height="450">|||
+| 脳内パステル [OSAKA] - あざといシンパサイザー<details><summary>의역 보기</summary> NOUNAI PASTEL *(뇌내파스텔) - 여우같은 신파사이저(*동조자) </details> |||
 
 |<a href="https://www.youtube.com/watch?v=wNzqazRETEY&list=RDwNzqazRETEY&start_radio=1"><img src="https://i.ytimg.com/vi/wNzqazRETEY/hq720.jpg" width="800" height="450">|
 |---|
-| 👑KIMINI, MUNEKYUN. - 경솔한 아이라뷰 <br>~내가 4학년 되면 수업 째고 키미큥 써머 페스는 꼭 간다 2027 써머큥 기다려라 물판 다 쓸어간다~ |
+| 👑KIMINI, MUNEKYUN. [NAGOYA]- 경솔한 아이라뷰 <br>~내가 4학년 되면 수업 째고 키미큥 써머 페스는 꼭 간다 2027 써머큥 기다려라 물판 다 쓸어간다~ |
 
 > **_TMI: 😇😇😇😇😇작성자는 인생의 총 1n번의 일본여행을 바탕으로 한 ~일본 아이돌 공연, 메이드카페 SSIP 고인물~ 초보입니다! ~심지어 국제항해에서 동기들을 끌고 메이드 카페를.. 읍읍읍ㅂㅂㅂㅂㅂㅂ~😇😇😇😇😇_**
 > <br>**_작성자의 어머님께서 쓰신 글입니다. : ㅇㅈ아 연애는 언제..........................................................................................._**
