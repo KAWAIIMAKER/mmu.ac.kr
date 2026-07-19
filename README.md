@@ -2,7 +2,7 @@
 <a href="https://youtu.be/6iNZDgXKVIs?si=W9imztBIHj7Uslrb"><img src="https://postfiles.pstatic.net/MjAyMDEyMDVfMjc4/MDAxNjA3MTU3NTUxMjMw.ZElT2N_t4K2wwF0tpKE5gBGw-5-U-urhjiug_xQBfCMg.76Rb6cZgDd5RHobBFr8XNXQ2banGleMcrLxMY4LF7g4g.PNG.badasemi/%EB%B0%94%EB%8B%A4%EC%84%B8%EB%AF%B8_%EC%8B%9C%EC%9E%91_%EB%B0%B0%EB%84%88.png?type=w773" width="773" height="286"></a>
 
 </n>(영문판: https://github.com/KAWAIIMAKER/kawaiimaker)
-> **Ver 260718.01**
+> **Ver 260719.01**
 > 
 > **Made by @wjs9.22 / 항해정보시스템학부 72기**
 ><br><img src="https://github.com/user-attachments/assets/431ade50-5a2c-49dc-82b1-431b51c38a32"  width="150" height="200">
@@ -195,7 +195,7 @@
 
 일반적으로 영상 편집에 필수적인 요소이지만, 처음에는 어떻게 시작하고 얻어야 할지 멘탈의 문제가 생기게 될 거에요🫠
 
-영상 편집 초보자들을 위해 제가 2019년부터 지금까지 모아온 FX 정리 드라이브 링크를 공유하겠습니다. (* 2026년 7월 9일 업데이트 완료)
+영상 편집 초보자들을 위해 제가 2019년부터 지금까지 모아온 FX 정리 드라이브 링크를 공유하겠습니다. (* 2026년 7월 19일 업데이트 완료, 변경내용: 추천 LUT 추가)
 
 - [GDrive (@mmu_badasemi 전용)](https://drive.google.com/drive/folders/1hYij15dUIne6kz8dYn7V4KYMO1YjThe_?usp=drive_link)
 - [크로마키 밈 모음 사이트](https://greenscreenmemes.com/)
@@ -262,6 +262,12 @@
 > **_중첩 시퀀스 or 그룹화_**
 
 영상 여러개를 묶을 때 사용합니다. 일괄적으로 FX를 넣거나 키프레임을 적용할 때 사용합니다.
+
+> **_LUT_**
+
+영상 최종 색보정에 사용합니다. 어도비 프로그램은 .CUBE 형식의 LUT를 사용합니다!
+<br>영상의 분위기를 좌우하는데 가장 큰 역할을 합니다!
+<br>적용법 (추가예정 7/19 기준)
 
 > [!WARNING]
 > **_여기부터는 작성자의 취향이 반영된 내용을 다룹니다!!_**
