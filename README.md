@@ -378,7 +378,7 @@
 </details>
 
 > [!WARNING]
-> **_🤬🤬🤬🤬🤬여기부터는 제작자의 욕설과 목전의 현실이 반영된 내용을 다룹니다!!_**
+> **_🤬🤬🤬🤬🤬여기부터는 제작자의 욕설과 ~목전~의 현실이 반영된 내용을 다룹니다!!_**
 
 <details>
 <summary>목해대 2학년 2학기 살아남기 (부제. 목해대 저학년 꿀팁 vol.4)</summary>
@@ -405,7 +405,7 @@
 > **_😇😇😇😇😇여기부터는 머리가 새하얘질 수 있는 내용을 다룹니다!!😇😇😇😇😇_**
 
 > [!WARNING]
-> **_🍶🍾🍺🍻🥂여기부터는 작성자가 동기와 호실에서 과음 후 작성한 내용이 포함됩니다!! 그냥 ~개소리~에요!!!!!!!!!! ;; 과실 50 패스~~~~~~~~😵‍💫🤢🤮😵‍💫🤢🤮_**
+> **_🍶🍾🍺🍻🥂여기부터는 작성자가 동기와 호실에서 과음 후 작성한 내용이 포함됩니다!! 그냥 ~개소리~예요!!!!!!!!!! ;; 과실 50 패스~~~~~~~~😵‍💫🤢🤮😵‍💫🤢🤮_**
 
 > [!IMPORTANT]
 > **_😇😇😇😇😇여기부터는 전체이용가 입니다!😇😇😇😇😇_**
@@ -488,7 +488,7 @@ TMI로 작성자가 실제로 현장~現場,겐바~에서 본 팀만 정리하�
 
 [일본 아이돌 X팔로워 순위는 こちら(여기로)](https://liveidol.blog/groups/)
 <br>TIP: 이 팀이 인지도가 있는지 가라로 맞히는 법: 유튜브에 겐바영상을 검색한 후 음원이 뜨면 이건 평타 이상임ㅇㅇㅇ
-
+</details>
 </details>
 </details>
 </details>
@@ -497,7 +497,6 @@ TMI로 작성자가 실제로 현장~現場,겐바~에서 본 팀만 정리하�
 
 <details>
 <summary>CG 참고자료</summary>
-  
 | <a href="https://www.youtube.com/watch?v=tpFDnOnOdSQ"><img src="https://i.ytimg.com/vi/hhPalbt5Cq8/maxresdefault.jpg"></a> | <a href="https://www.youtube.com/watch?v=dnXc48FLyE4"><img src="https://api.grove.tokyo/wp15/wp-content/uploads/2025/12/madamada-1536x1024.jpg"></a> |
 | --- | --- |
 | M!LK - **폭렬**사랑해| MADAMADA - 응애(바부)하는 Bubble |
