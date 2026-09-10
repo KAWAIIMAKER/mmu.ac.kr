@@ -1,11 +1,11 @@
-# 영상 제작 교육 자료 for @mmu_badasemi
+># 영상 제작 교육 자료 for @mmu_badasemi
 <a href="https://www.youtube.com/@%EA%B5%AD%EB%A6%BD%EB%AA%A9%ED%8F%AC%ED%95%B4%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90MMU"><img src="https://postfiles.pstatic.net/MjAyMDEyMDVfMjc4/MDAxNjA3MTU3NTUxMjMw.ZElT2N_t4K2wwF0tpKE5gBGw-5-U-urhjiug_xQBfCMg.76Rb6cZgDd5RHobBFr8XNXQ2banGleMcrLxMY4LF7g4g.PNG.badasemi/%EB%B0%94%EB%8B%A4%EC%84%B8%EB%AF%B8_%EC%8B%9C%EC%9E%91_%EB%B0%B0%EB%84%88.png?type=w773" width="773" height="286"></a>
 
 </n>(영문판: https://github.com/KAWAIIMAKER/kawaiimaker)
-> **Ver 260808.01**
+> **Ver 260911.01**
 > 
 > **Made by @wjs9.22 (instagram) / 항해정보시스템학부 72기**
-> <br>#comment: 작성자는 실습 2026년 9월 말부터... [GLOVIS SUCCESS/IMO 9964285] <br>후배님들도 3학년 여유기간에 졸업요건 (*토익, 각종 자격증) 맞추는 걸 추천드립니다.
+> <br>#comment: 작성자는 실습 2026년 9월 15일부터 2027년 n월 까지... [GLOVIS SUCCESS/IMO 9964285] <br>후배님들도 3학년 여유기간에 졸업요건 (*토익, 각종 자격증) 맞추는 걸 추천드립니다.
 ><br><img src="https://github.com/user-attachments/assets/431ade50-5a2c-49dc-82b1-431b51c38a32"  width="150" height="200">
 > 
 > 원래 제작 목적은 바다세미 영상부서의 인계자료였으나, 후배님들을 위해 **학교생활&실습 꿀팁**도 같이 **포함**하겠습니다. (5장 Reference 참고)<br>
@@ -405,7 +405,7 @@
 > **_😇😇😇😇😇여기부터는 머리가 새하얘질 수 있는 내용을 다룹니다!!😇😇😇😇😇_**
 
 > [!WARNING]
-> **_🍶🍾🍺🍻🥂여기부터는 작성자가 동기와 호실에서 과음 후 작성한 내용이 포함됩니다!! 그냥 ~개소리~예요!!!!!!!!!! ;; 과실 50 패스~~~~~~~~😵‍💫🤢🤮😵‍💫🤢🤮_**
+> **_🍶🍾🍺🍻🥂여기부터는 작성자가 동기와 호실에서 과음 후 작성한 내용이 포함됩니다!! 그냥 ~개소리~예요!!!!!!!!!! ;; 과실 50 패스~~~~~~~~ 호술야호~✌️✌️😵‍💫🤢🤮😵‍💫🤢🤮_**
 
 > [!IMPORTANT]
 > **_😇😇😇😇😇여기부터는 전체이용가 입니다!😇😇😇😇😇_**
@@ -418,13 +418,22 @@
 <summary>여기서부터는 작성자의 다양한 똥꼬쇼를 다룹니다!</summary>
 <details>
 <summary>Really??</summary>
+
+| <a href="https://www.youtube.com/watch?v=WMDIQL7WiSc"><img src="https://i.ytimg.com/vi/WMDIQL7WiSc/hq720.jpg" width="1280" height="720" ></a> |
+| --- |
+| 본 썸네일(클릭)은 2026년 9월 기준 일본 JK~20대의 유행 아이돌 지식에 관한 테스트 입니다. 총 노래 수는 55개입니다. |
+| 45개 이상 아는 노래다: 아래 버튼 클릭 ㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱ|
+| 30개 이상 안다: 아래 버튼 클릭해보기 |
+| 이게 뭐야 ㅜㅜ: 돌아가기 |
+| ~TMI로 작성자는 51개의 노래를 알고 있습니다.~ |
+
 <details>
-<summary>まじ？ 気になるなら押してみて。[정말로? 궁금하면 눌러봐.]</summary>
+<summary>まじ？ 気になるなら押してみて。</summary>
 
 
 | <a href="https://youtu.be/5uMZ_-XTrDE?si=Hvem9n6YGzN0Dn1p"><img src="https://github.com/user-attachments/assets/63a6d08b-e00a-4bfb-8109-a44555158505" width="1600" height="1200" ></a> |
 | --- |
-| Onephony - 태어날 때부터 백역사😇😇 | 
+| Onephony - 『生まれたトキから白歴史/태어날 때부터 백역사』 댄스 연습 영상입니다. | 
 | 이 영상이 따라하기 쉬울 거 같아 1번에 둡니다. <br> 쿠보타 사야카(久保田さやか🩵), 타치바나 아야네(橘彩音💙), 유메노 미오(夢乃澪🩷), 아사쿠라 미라이(浅桜みらい💜), 타지마 사쿠라코(田島櫻子♥️), 이마다 유이(今田優衣💚), 노자키 미리(乃咲みり💛) |
 | **사용된 효과들에 대해서 분석해보자.**<br>0:06 배경과 인물 사이에 로고 넣기 (인물 레이어를 하나 더 복제한 후 그 사이에 로고를 넣는다.)<br>0:11 자연스럽게 크기가 줄어드면서 타이핑 형식으로 등장<br>0:19 자간을 자연스럽게 좁히면서 (가,감속 프레임)<br>0:22 자가을 위 아래로 좁히며, 좌우로 퇴장<br>0:25 흔들리며 병풍처럼 배치, 반투명도 교차로 자연스러운 트렌지션<br>0:28 아래 자료 참고; 동그라미 형식으로 한 번 튕긴 후 등장<br>이후에는 효과 반복사용 |
 
@@ -434,20 +443,17 @@
 <br>그러면 After Effects 인수인계도 해야하는데 샤갈~~~~~~~~~~~~~~~~~~~~~~~🫠🫠🫠🫠🫠🫠🫠🫠🫠
 <br>에펙 자료쓰려면 수십장은 나오는데 실습 다녀와서 업데이트 하는 걸로......
 <br>**실습을 변기🚽🚽에 넣고 내려🪠🪠**
-<br>**실습을 변기🚽🚽에 넣고 내려🪠🪠**
-<br>**실습을 변기🚽🚽에 넣고 내려🪠🪠**
-<br>**실습을 변기🚽🚽에 넣고 내려🪠🪠**
-<br>**실습을 변기🚽🚽에 넣고 내려🪠🪠**
 
 | <a href="https://youtu.be/WB9EpqF08Yg?si=5hRExw59zsy-IbtB"><img src="https://i.ytimg.com/vi/WB9EpqF08Yg/hq720.jpg" width="1600" height="900"></a> |
 | --- |
 | CUTIE STREET - 갑자기 멈출 수 없어요! | 
-| 한국에도 진출한 컵케이크🧁🧁를 가져왔다. 0:19초부터 모션 폰트 아이디어를 참고해보셈ㅇ |
+| 한국에도 진출한 컵케이크🧁🧁를 가져왔습니다. 0:19초부터 모션 폰트 아이디어를 참고해보세요! |
 
-| <a href="https://www.youtube.com/watch?v=rIlafJkuStk"><img src="https://i.ytimg.com/vi/rIlafJkuStk/hq720.jpg" width="1600" height="900" ></a> |
+| <a href="https://www.youtube.com/watch?v=nRsTHcp3EwI"><img src="https://i.ytimg.com/vi/nRsTHcp3EwI/hq720.jpg" width="1600" height="900" ></a> |
 | --- |
-| iLiFE! - 만나러 와줘! | 
-| **~작성자가 가장 좋아하는 그룹입니다.🍦🍦🍦🍦🍦🍦🍦🍦🍦~**  <br> ~미키 우사 리리 카렌 뮤 미니 아이스🍦 노아 마무~ <br>🚨WARNING🚨: 우사짱 밑에 적힌 글씨는 ~목해대 그 사람들의~ 현실을 나타냅니다!|
+| iLiFE! - 아이돌라이프 메가팩 | 
+| **~작성자가 가장 좋아하는 그룹입니다.🍦🍦🍦🍦🍦🍦🍦🍦🍦~**  <br> ~미키 우사 리리 카렌 뮤 미니 아이스🍦 노아 마무~ |
+
 <details>
 <summary>여기서부터는 작성자가 생각하는 띵곡을 다룹니다. 더보기</summary>
 는 개뿔 이 노래들으면 흥얼거리게 되어 중독성에서 빠져나오기 어렵습니다.
@@ -464,17 +470,16 @@
 |Pretty Chuu - 잘 나온 나, 최강이자나!|Gyakuten neko panch! [NAGOYA] - 무적 AREA|i-COL - 파라리라댄스|
 |<a href="https://www.youtube.com/watch?v=ClslHCUXMXo"><img src="https://i.ytimg.com/vi/ZQsInKJdHJ8/maxresdefault.jpg" width="800" height="450"></a>|<a href="https://youtu.be/kz3mheKLVI4?si=h7ExbEiV4jLdUt2X&t=487"><img src="https://i.ytimg.com/vi/QoHhsY1f1CU/maxresdefault.jpg" width="800" height="450"></a>|<a href="https://youtu.be/bs2p6FpG4Is?si=exNzcFx8pOcebkW7"><img src="https://jamscollection.jp/topics/images/x2p7bzz56qg6f9np8k8iaj3mflpguu.jpg" width="800" height="450"></a>|
 |Pixel Ribbon - 다이스키(의역:좋아함) 테스트|シンデレラ宣言！ - 슈키피(의역: 최애) 선언!|Jams Collection(쟈무즈) - 신데렐라 마인드|
-|<a href="https://youtu.be/6iNZDgXKVIs?si=7oJeZvbIHErV_A-U"><img src="https://i.ytimg.com/vi/6iNZDgXKVIs/maxresdefault.jpg" width="800" height="450">|<a href="https://youtu.be/KNHkMHBhmtA?si=WqDrIu1AElhQnCTa"><img src="https://i.ytimg.com/vi/KNHkMHBhmtA/hq720.jpg" width="800" height="450">|<a href="https://www.youtube.com/watch?v=xMuhW0CCrP0"><img src="https://i.ytimg.com/vi/xMuhW0CCrP0/sddefault.jpg" width="800" height="450">|
-| CURE'T - Angelic Duty♡ | ~대충 일본어를 공부해야하는 이유입니다. (출처: 이슬영웅 [KOREA])~ 샤갈 ~해사대 3학년은 개인적인 해외여행 안된다고~ | CANDY TUNE -『倍倍FIGHT!』 |
+|<a href="https://youtu.be/6iNZDgXKVIs?si=7oJeZvbIHErV_A-U"><img src="https://i.ytimg.com/vi/6iNZDgXKVIs/maxresdefault.jpg" width="800" height="450">|<a href="https://www.youtube.com/watch?v=pyAFxWsEoPw"><img src="https://i.ytimg.com/vi/pyAFxWsEoPw/hq720.jpg" width="800" height="450">|<a href="https://www.youtube.com/watch?v=xMuhW0CCrP0"><img src="https://i.ytimg.com/vi/xMuhW0CCrP0/sddefault.jpg" width="800" height="450">|
+| CURE'T - Angelic Duty♡ | ハレとハレ！ - みーちゅー！ | CANDY TUNE -『倍倍FIGHT!』 |
 |<a href="https://www.youtube.com/watch?v=ftEXe1-eJsQ"><img src="https://i.ytimg.com/vi/ftEXe1-eJsQ/maxresdefault.jpg" width="800" height="450">|||
 | 脳内パステル [OSAKA] - あざといシンパサイザー<details><summary>의역 보기</summary> NOUNAI PASTEL *(뇌내파스텔) - 여우같은 신파사이저(*동조자) </details> |||
 
-|<a href="https://www.youtube.com/watch?v=wNzqazRETEY&list=RDwNzqazRETEY&start_radio=1"><img src="https://i.ytimg.com/vi/wNzqazRETEY/hq720.jpg" width="800" height="450">|
+|<a href="https://www.youtube.com/watch?v=5S2TaHJrY9U"><img src="https://static.wikia.nocookie.net/jpop/images/d/de/ILiFE%21_June_2026.jpg/revision/latest?cb=20260605112707" width="800" height="450">|
 |---|
-| 👑KIMINI, MUNEKYUN. [NAGOYA]- 경솔한 아이라뷰 <br>~내가 4학년 되면 수업 째고 키미큥 써머 페스는 꼭 간다 2027 써머큥 기다려라 물판 다 쓸어간다~ |
-| 썸네일 분석을 해보자. Supported by [東別院音食Night Market](https://higashi-asaichi.jp/) / SUMMER KYUN / >> 써머큥 한 여름의 흠뻑 적셔 대작전!! << 2025 |
+| 👑iLiFE 실시간 스테이션 / TIP 24시간 랜덤 라이브 공연 영상이 나옵니다. <br>~내가 4학년 되면 수업 째고 HEROINES FES는 다시한번 꼭 간다 2027 두고봐라 물판 다 쓸어간다~ |
 
-> **_TMI: 😇😇😇😇😇작성자는 인생의 총 1n번의 일본여행을 바탕으로 한 ~일본 아이돌 공연, 메이드카페 SSIP 고인물~ 초보입니다! ~심지어 국제항해에서 동기들을 끌고 메이드 카페를.. 읍읍읍ㅂㅂㅂㅂㅂㅂ~😇😇😇😇😇_**
+> **_TMI: 😇😇😇😇😇작성자는 인생의 총 1n번의 일본여행을 바탕으로 한 ~일본 아이돌 공연, 메이드카페 SSIP 고인물~ 초보입니다! ~심지어 국제항해에서 동기들을 끌고 메이드 카페를.. 암튼 그런 인간입니다. 읍읍읍ㅂㅂㅂㅂㅂㅂ~😇😇😇😇😇_**
 > <br>**_여기서부터는 작성자의 개인적 의견이.ㅣㅣㅣㅣㅣㅣㅣㅣㅣ: ~이런 샤갈 가치코이가 어쩌구저쩌구 わからんわからんわからんわからんわからんわからんわからんわからんわからんわからんわからんわからんわからん~_**
 
 TMI로 작성자가 실제로 현장~現場,겐바~에서 본 팀만 정리하였습니다. 
@@ -487,7 +492,7 @@ TMI로 작성자가 실제로 현장~現場,겐바~에서 본 팀만 정리하�
 | 해당 이미지는 나고야항을 배경으로 한 댄스커버 영상의 일부분을 애니메이션화 시킨 것 입니다. [실제 위치](https://maps.app.goo.gl/cwhNUR3JNgUQhmwJA) |
 
 [일본 아이돌 X팔로워 순위는 こちら(여기로)](https://liveidol.blog/groups/)
-<br>TIP: 이 팀이 인지도가 있는지 가라로 맞히는 법: 유튜브에 겐바영상을 검색한 후 음원이 뜨면 이건 평타 이상임ㅇㅇㅇ
+<br>TIP: 이 팀이 인지도가 있는지 가라로 맞히는 법: 유튜브에 겐바영상을 검색한 후 음원이 뜨면 이건 평타 이상입니다.ㅇㅇㅇ
 </details>
 </details>
 </details>
